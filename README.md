@@ -5,14 +5,17 @@
 
 ## 🛠️ Skills & Tools  
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)  
-![ArcGIS](https://img.shields.io/badge/ArcGIS-1E4D2B?style=for-the-badge&logo=esri&logoColor=white)  
-![QGIS](https://img.shields.io/badge/QGIS-3C9D46?style=for-the-badge&logo=qgis&logoColor=white)  
-![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge&logo=googleearth&logoColor=white)  
-![Remote Sensing](https://img.shields.io/badge/Remote%20Sensing-006699?style=for-the-badge&logo=databricks&logoColor=white)  
-![MS Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)  
-![MS Project](https://img.shields.io/badge/MS%20Project-217346?style=for-the-badge&logo=microsoft&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) 
+![ArcGIS](https://img.shields.io/badge/ArcGIS-1E4D2B?style=for-the-badge&logo=esri&logoColor=white) 
+![QGIS](https://img.shields.io/badge/QGIS-3C9D46?style=for-the-badge&logo=qgis&logoColor=white) 
+![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge&logo=googleearth&logoColor=white) 
+![Remote Sensing](https://img.shields.io/badge/Remote%20Sensing-006699?style=for-the-badge&logo=databricks&logoColor=white) 
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white) 
+![MS Project](https://img.shields.io/badge/MS%20Project-217346?style=for-the-badge&logo=microsoft&logoColor=white) 
+![MS PowerPoint](https://img.shields.io/badge/MS%20PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white) 
+![PTV Vissim](https://img.shields.io/badge/PTV%20Vissim-CC0000?style=for-the-badge&logo=ptvgroup&logoColor=white) 
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white) 
 
 ---
 
