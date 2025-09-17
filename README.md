@@ -35,10 +35,15 @@
 ---
 
 ## 📘 Academic Projects  
-<details>  
-<summary>Participatory Planning Studio</summary>  
-*(Details & images to be inserted)*  
-</details>  
+<details>
+  <summary><b>Participatory Planning Studio</b></summary>
+  
+  [![PDF - Presentation](https://img.shields.io/badge/PDF-Presentation-E74C3C?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](Academic/Presentation.pdf)
+  [![PDF - Report](https://img.shields.io/badge/PDF-Report-E74C3C?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](Academic/Report.pdf)
+  [![Project Page](https://img.shields.io/badge/Project%20Page-Open-0A66C2?style=for-the-badge)](Academic/Participatory.md)
+
+</details>
+ 
 
 <details>  
 <summary>Project Planning Studio</summary>  
