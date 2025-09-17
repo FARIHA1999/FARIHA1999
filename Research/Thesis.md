@@ -6,28 +6,28 @@
 1. To explore the reasons behind land cover change of a selected protected area in Bangladesh. 
 2. To evaluate management strategies for the selected protected area.
 
-<details>
-  <summary><b>## Methodology</b> (click to expand)</summary>
+## Methodology
 
-- *Data Collection*  
+<details>
+  <summary><em>Data Collection</em></summary>
   <p align="left">
     <img src="./Methodology.jpg" alt="Data Collection" width="80%">
   </p>
+</details>
 
-- *Application of Participatory Rural Appraisal Tools*  
+<details>
+  <summary><em>Application of Participatory Rural Appraisal Tools</em></summary>
   <p align="left">
     <img src="./Pra.jpg" alt="Application of Participatory Rural Appraisal Tools" width="80%">
   </p>
+</details>
 
-- *Application of Management Effectiveness Tracking Tool (METT)*  
+<details>
+  <summary><em>Application of Management Effectiveness Tracking Tool (METT)</em></summary>
   <p align="left">
     <img src="./methodology%202.jpg" alt="Application of METT Tool" width="80%">
   </p>
-
 </details>
-
-
-
 
 ## Results
 1. Social & Resource Map  
