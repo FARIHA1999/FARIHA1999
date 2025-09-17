@@ -34,7 +34,7 @@
 <details>
   <summary><em>Social and Resource Map of the Study Area</em></summary>
   <p align="left">
-    <img src="./Social%20and%20Resource%20Map.jpg" alt="Social and Resource Map" width="80%">
+    <img src="./Social%20and%20Resource%20Map.JPG" alt="Social and Resource Map" width="80%">
   </p>
 </details>
 
