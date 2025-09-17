@@ -1,4 +1,4 @@
-# 👋 Hello, I am **Fariha Aktar**  
+# Hello, I am **Fariha Aktar**  
 *Urban and Regional Planner*  
 
 ---
