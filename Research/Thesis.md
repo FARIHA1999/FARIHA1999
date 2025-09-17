@@ -3,8 +3,8 @@
 [← Back to profile](../)
 
 ## Objectives
-1. Investigate drivers of land cover change in Bhawal National Park.  
-2. Evaluate the effectiveness of current management strategies.
+1. To explore the reasons behind land cover change of a selected protected area in Bangladesh. 
+2. To evaluate management strategies for the selected protected area.
 
 ## Methodology
 - Data collection (satellite imagery + field survey)  
