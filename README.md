@@ -1,4 +1,4 @@
-# Hello, I am **Fariha Aktar**  
+# Greetings! I am **Fariha Aktar**  
 *Urban and Regional Planner*  
 
 ---
@@ -49,11 +49,10 @@
 [![Project Report](https://img.shields.io/static/v1?label=Project%20Report&message=%20&color=F39C12&style=for-the-badge)](Academic/Report.pdf)
 
 </details>
-
  
 
 <details>  
-<summary>Project Planning Studio</summary>  
+  <summary>Project Planning Studio</summary>  
 *(Details & images to be inserted)*  
 </details>  
 
