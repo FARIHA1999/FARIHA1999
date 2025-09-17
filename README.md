@@ -95,7 +95,7 @@
 </details>
 
 </details>
----
+
 
 ## 🎓 Education  
 <details>
