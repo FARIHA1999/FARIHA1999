@@ -42,7 +42,6 @@
 - Led stakeholder communication and program logistics across government, development partners, and private sector.
 
 **Highlight:** 🏆 2nd place in the “Capacity Building Workshop with Government Officials on Strengthening Access to the GCF for SMEs in Bangladesh” (May 2025).
-
 <details>
   <summary>📄 View certificate</summary>
 
