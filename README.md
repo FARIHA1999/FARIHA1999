@@ -75,7 +75,7 @@
 
 ## 🏅 Professional Training  
 <details>  
-<summary><b>Environmental Modelling & Environmental and Social Impact Assessment (ESIA)</b> · IWM</summary>  
+  <summary><b>Environmental Modelling & Environmental and Social Impact Assessment (ESIA)</b> · IWM</summary>  
 
 **Key Modules:**  
 - ESIA & Project Cycle | Policy & Legal Framework | Baseline Assessment  
@@ -84,9 +84,17 @@
 - Mitigation Measures & EMP/EMoP Development  
 - ESIA Reporting & Environmental Clearance Process  
 
-*(Certificate image to be added)*  
-</details>  
+<details>
+  <summary>📄 View certificate</summary>
 
+  <div align="center">
+    <img src="ESIA%20Training.PNG"
+         alt="ESIA Training Certificate (IWM)"
+         width="70%">
+  </div>
+</details>
+
+</details>
 ---
 
 ## 🎓 Education  
