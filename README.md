@@ -36,13 +36,20 @@
 
 ## 📘 Academic Projects  
 <details>
-  <summary><b>Participatory Planning Studio</b></summary>
+  <summary><b>Participatory Planning Studio</b> — <i>A Study on Informal Market at the Local Level and the Role of Stakeholders</i></summary>
+
+**Objectives**
+- To understand the spatial and temporal extent of informal markets at the local level  
+- To identify and analyze the problems faced by informal businessmen and users  
+- To explore the relationship and role of stakeholders in informal markets at the local level  
+
+**Deliverables**
   
-  [![PDF - Presentation](https://img.shields.io/badge/PDF-Presentation-E74C3C?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](Academic/Presentation.pdf)
-  [![PDF - Report](https://img.shields.io/badge/PDF-Report-E74C3C?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](Academic/Report.pdf)
-  [![Project Page](https://img.shields.io/badge/Project%20Page-Open-0A66C2?style=for-the-badge)](Academic/Participatory.md)
+[![Project Presentation](https://img.shields.io/static/v1?label=Project%20Presentation&message=%20&color=E74C3C&style=for-the-badge)](Academic/Presentation.pdf)
+[![Project Report](https://img.shields.io/static/v1?label=Project%20Report&message=%20&color=F39C12&style=for-the-badge)](Academic/Report.pdf)
 
 </details>
+
  
 
 <details>  
