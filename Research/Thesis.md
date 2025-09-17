@@ -97,7 +97,7 @@
 <details>
   <summary><em>Percentage of Five Elements of Management Effectiveness of the Study Area</em></summary>
   <p align="left">
-    <img src="./effectiveness.png" alt="effectiveness" width="80%">
+    <img src="./effectiveness.png.jpg" alt="effectiveness" width="80%">
   </p>
 </details>
 
