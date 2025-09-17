@@ -1,5 +1,7 @@
 **💼 Designation** - Climate Associate<br>
+
 **🏢 Organization** - <a href="https://www.iwmbd.org/" target="_blank">Institute of Water Modelling (IWM)</a><br>
+
 Deputation at the <b><a href="https://climatefinance.erd.gov.bd/" target="_blank">International Climate Finance Cell (ICFC)</a>, Economic Relations Division (ERD), Ministry of Finance, Government of Bangladesh. </b><br>
 
 📍 Dhaka, Bangladesh · 🗓️ Dec 2024 – May 2025</summary>
