@@ -93,21 +93,21 @@
          width="70%">
   </div>
 </details>
-**Resource:** 📎 <a href="https://www.iwmbd.org/assets/uploads/iwm/training/courses/Flyer%20ESIA_May_Rev_2025.pdf">Official Course Flyer (PDF)</a>
+📎 <a href="https://www.iwmbd.org/assets/uploads/iwm/training/courses/Flyer%20ESIA_May_Rev_2025.pdf">Official Course Flyer (PDF)</a>
 </details>
 
 
 ## 🎓 Education  
 <details>
-  <summary><b>Bachelor of Urban and Regional Planning (BURP)</b> — <a href="https://urp.buet.ac.bd/">Bangladesh University of Engineering & Technology (BUET)</a><br><sub>📍 Dhaka · 🗓️ 2019–2024 · CGPA: <b>3.64/4.00</b></sub></summary>
+  <b>Bachelor of Urban and Regional Planning (BURP)</b> — <a href="https://urp.buet.ac.bd/">Bangladesh University of Engineering & Technology (BUET)</a><br><sub>📍 Dhaka · 🗓️ 2019–2024 · CGPA: <b>3.64/4.00</b></sub>
 </details>
 
 <details>
-  <summary><b>Higher Secondary Certificate (HSC)</b> — <a href="https://www.vnsc.edu.bd/">Viqarunnisa Noon School & College</a><br><sub>📍 Dhaka · 🗓️ 2016–2018 · GPA: <b>5.00/5.00</b></sub></summary>
+  <b>Higher Secondary Certificate (HSC)</b> — <a href="https://www.vnsc.edu.bd/">Viqarunnisa Noon School & College</a><br><sub>📍 Dhaka · 🗓️ 2016–2018 · GPA: <b>5.00/5.00</b></sub>
 </details>
 
 <details>
-  <summary><b>Secondary School Certificate (SSC)</b> — <a href="https://www.vnsc.edu.bd/">Viqarunnisa Noon School & College</a><br><sub>📍 Dhaka · 🗓️ 2014–2016 · GPA: <b>5.00/5.00</b></sub></summary>
+  <b>Secondary School Certificate (SSC)</b> — <a href="https://www.vnsc.edu.bd/">Viqarunnisa Noon School & College</a><br><sub>📍 Dhaka · 🗓️ 2014–2016 · GPA: <b>5.00/5.00</b></sub>
 </details>  
 
 ---
