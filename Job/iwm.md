@@ -1,8 +1,10 @@
-##Designation: Climate Associate
+**Designation** - Climate Associate
+**Organization** - <a href="https://www.iwmbd.org/" target="_blank">Institute of Water Modelling (IWM)</a>
+Deputed at the <b>International Climate Finance Cell (ICFC), Economic Relations Division (ERD), Ministry of Finance, Government of Bangladesh. </b>
 
-  <sub>📍 Dhaka · 🗓️ Dec 2024 – May 2025</sub></summary>
+📍 Dhaka, Bangladesh · 🗓️ Dec 2024 – May 2025</summary>
 
-<sub>Deputed at the <b>International Climate Finance Cell (ICFC)</b>, Economic Relations Division (ERD), Ministry of Finance, Government of Bangladesh.</sub>
+##Key Reponsibilities
 
 - Prepared the **First Country Consultation Workshop Report** for the Global Shield In-Country Process (Bangladesh).
 - Coordinated national-level events & trainings: Global Climate Finance Architectures (Jan 2025), International Climate Finance Landscape (Apr 2025), **GCF for SMEs** (May 2025), and Financial Analysis & Investment Instruments (2025).
