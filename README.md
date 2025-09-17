@@ -57,35 +57,33 @@ Viqarunnisa Noon School and College, Dhaka, Bangladesh
 ---
 
 ## 💼 Professional Experience  
-<details>  
-<summary><b>Institute of Water Modelling (IWM)</b> · Climate Associate (Dec 2025 – May 2025)</summary>  
+<details>
+  <summary><b><a href="https://www.iwmbd.org/" target="_blank">Institute of Water Modelling (IWM)</a></b> — <i>Climate Associate</i><br><sub>📍 Dhaka · 🗓️ Dec 2024 – May 2025</sub></summary>
 
-- Prepared the **First Country Consultation Workshop Report** for the Global Shield In-Country Process in Bangladesh.  
-- Facilitated and organized several national-level workshops, including:  
-  - Training Workshop on Global Climate Finance Architectures (Jan 2025)  
-  - Workshop on International Climate Finance Landscape (Apr 2025)  
-  - Capacity Building Workshop on Access to GCF for SMEs in Bangladesh (May 2025)  
-  - Capacity Building Training on Financial Analysis & Investment Instruments for Climate Finance (Ongoing 2025)  
-- Drafted concept notes, official documentation, and reports for high-level events.  
-- Developed briefing notes for **Coalition of Finance Ministers for Climate Action (CFMCA)** & **CVF-V20** events.  
-- Conducted research on **carbon markets, NDCs, and global climate finance frameworks**.  
+- Prepared the **First Country Consultation Workshop Report** for the Global Shield In-Country Process (Bangladesh).
+- Coordinated national-level events & trainings: Global Climate Finance Architectures (Jan 2025), International Climate Finance Landscape (Apr 2025), **GCF for SMEs** (May 2025), and Financial Analysis & Investment Instruments (2025).
+- Wrote **concept notes**, official documentation, and high-level **briefing notes** for CFMCA and CVF-V20 side events.
+- Researched **carbon markets**, **NDCs**, and global climate finance frameworks; supported content for the International Climate Finance Cell website.
+- Led stakeholder communication and program logistics across government, development partners, and private sector.
 
-**Achievement:** 🏆 2nd position in *Capacity Building Workshop with Government Officials on Strengthening Access to the GCF for SMEs* (May 2025). *(Certificate image to be added)*  
-</details>  
+**Highlight:** 🏆 Secured **2nd place** in the “Capacity Building Workshop with Government Officials on Strengthening Access to the GCF for SMEs in Bangladesh” (May 2025). *(Certificate to be added)*
+</details>
 
-<details>  
-<summary><b>Global Center on Adaptation (GCA)</b> · Consultant (Sep 2024 – Nov 2024)</summary>  
-- Managed program schedules, logistics, and event coordination.  
-- Engaged stakeholders from public & private sectors for climate change adaptation solutions.  
-- Assisted in **training sessions**, participant communication, and evaluation reporting.  
-</details>  
+<details>
+  <summary><b><a href="https://gca.org" target="_blank">Global Center on Adaptation (GCA)</a></b> — <i>Consultant, Training Program on Adaptation Finance</i><br><sub>📍 Dhaka · 🗓️ Sep 2024 – Nov 2024</sub></summary>
 
-<details>  
-<summary><b>Global Center on Adaptation (GCA)</b> · Intern (Oct 2023 – Nov 2023)</summary>  
-- Conducted research on climate change impacts on marginalized communities in Bangladesh.  
-- Investigated the role of **local governments** in climate adaptation.  
-- Assisted in organizing the *Training Program on Climate Change Adaptation Finance Phase 01*.  
-</details>  
+- Managed **program schedules**, vendor coordination, logistics, and on-site execution.
+- Engaged public/private stakeholders for **adaptation finance** capacity building.
+- Assisted trainers, maintained participant communications, and produced **evaluation reports**.
+</details>
+
+<details>
+  <summary><b><a href="https://gca.org" target="_blank">Global Center on Adaptation (GCA)</a></b> — <i>Intern</i><br><sub>📍 Dhaka · 🗓️ Oct 2023 – Nov 2023</sub></summary>
+
+- Compiled transcripts on climate impacts to marginalized communities in northern & southern Bangladesh.
+- Conducted desk research on **local government roles** in climate adaptation.
+- Supported organization and reporting for the “Training Program on Climate Change Adaptation Finance – Phase 01”.
+</details> 
 
 ---
 
