@@ -69,7 +69,7 @@
 <details>
   <summary><em>Land Encroachment</em></summary>
   <p align="left">
-    <img src="./Land%20amount.jpg" alt="Land" width="80%">
+    <img src="./Land%20amount.jpg" alt="Land" width="70%">
   </p>
 </details>
 
@@ -102,7 +102,7 @@
 </details>
 
 <details>
-  <summary>## Major Findings</summary>
+  <summary>*Major Findings*</summary>
 
 - The forestlands of Bhawal National Park are gradually encroached through establishing industries, settlements or expanding agricultural lands. 
 - At present, 989.36 acres forestlands are illegally encroached by industries, agro based farms or private cottages. The total land valuation of the encroached lands is 197872 crore BDT. 
