@@ -69,7 +69,7 @@
 ---
 
 ## 💼 Professional Experience  
-- <a href="Job/iwm.md"><i>Climate Associate - Institute of Water Modelling</i></a> ↗
+- <a href="Job/iwm.md"><i>Climate Associate - Institute of Water Modelling (IWM)</i></a> ↗
 
 <details>
   <summary><b><a href="https://gca.org" target="_blank">Global Center on Adaptation (GCA)</a></b> — <i>Consultant, Training Program on Adaptation Finance</i><br><sub>📍 Dhaka · 🗓️ Sep 2024 – Nov 2024</sub></summary>
