@@ -34,7 +34,7 @@
 <details>
   <summary><em>Social and Resource Map of the Study Area</em></summary>
   <p align="left">
-    <img src="./Social%20and%20Resource%20Map.JPG" alt="Social and Resource Map" width="50%">
+    <img src="./Social%20and%20Resource%20Map.JPG" alt="Social and Resource Map" width="70%">
   </p>
 </details>
 
@@ -83,7 +83,7 @@
 <details>
   <summary><em>Identification of Possible Threats to the Study Area & Threat Extent and Severity</em></summary>
   <p align="left">
-    <img src="./Detail%20Assessments%20of%20threats.jpg" alt="livelihood" width="70%">
+    <img src="./Detail%20Assessments%20of%20threats.jpg" alt="livelihood" width="80%">
   </p>
 </details>
 
@@ -101,10 +101,15 @@
   </p>
 </details>
 
-## Key Findings
-- Forestlands are increasingly encroached by industries & settlements.  
-- Institutional capacity is weak; eviction cases largely ineffective.  
-- Local communities excluded from decision-making.  
-- Current management is **ineffective** for long-term conservation.
+## Major Findings
+- The forestlands of Bhawal National Park are gradually encroached through establishing industries, settlements or expanding agricultural lands. 
+- At present, 989.36 acres forestlands are illegally encroached by industries, agro based farms or private cottages. The total land valuation of the encroached lands is 197872 crore BDT. 
+- The Forest Department have filed 985 eviction cases against the illegal encroachers. Only 326.36 acres (30%) forestlands are restored from the encroachers. 
+- Before 2000, the issue of forest resource exploitation was extremely high as the forest resources were the only means of living for the poor people. 
+- The management effectiveness of the protected area in only 30.13 percent. The present management system of the protected area is ineffective is conserving forest ecosystem.
+- Bangladesh Forest Department has weak institutional capacity to directly enforce the laws against the forest crimes.
+- The current management process is excluding the local people from decision-making process and management activities. 
+
+
 
 
