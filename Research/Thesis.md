@@ -69,14 +69,14 @@
 <details>
   <summary><em>Land Encroachment</em></summary>
   <p align="left">
-    <img src="./Land%20amount.jpg" alt="Land" width="70%">
+    <img src="./Land%20amount.jpg" alt="Land" width="60%">
   </p>
 </details>
 
 <details>
   <summary><em>Change in Local Livelihood Options</em></summary>
   <p align="left">
-    <img src="./Socio%20economic.jpg" alt="livelihood" width="80%">
+    <img src="./Socio%20economic.jpg" alt="livelihood" width="100%">
   </p>
 </details>
 
@@ -90,14 +90,14 @@
 <details>
   <summary><em>Stakeholders Associated with the Management of Bhawal National Park</em></summary>
   <p align="left">
-    <img src="./Stakeholder%20associated%20with%20the%20Forest%20Management%20Process.jpg" alt="stakeholders" width="60%">
+    <img src="./Stakeholder%20associated%20with%20the%20Forest%20Management%20Process.jpg" alt="stakeholders" width="80%">
   </p>
 </details>
 
 <details>
   <summary><em>Percentage of Five Elements of Management Effectiveness of the Study Area</em></summary>
   <p align="left">
-    <img src="./effectiveness.png.jpg" alt="effectiveness" width="80%">
+    <img src="./effectiveness.png.jpg" alt="effectiveness" width="60%">
   </p>
 </details>
 
