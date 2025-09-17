@@ -4,7 +4,7 @@
 ---
 
 ## 🔬 Research Areas  
-- Protected Areas & Urban Forest Conservation  
+- Protected Areas & Urban Forest Conservation Management
 - Land Surface Temperature & Urban Heat Island Analysis  
 - Urban Expansion & Growth Pattern in Developing Countries  
 - Geo-AI Based Urban Solutions (ConvLSTM, CNN, CA-ANN)
