@@ -51,7 +51,7 @@
 </details>
 
 <details>
-  <summary><b><a href="https://gca.org" target="_blank">Global Center on Adaptation (GCA)</a></b> — <i>Intern</i><br><sub>📍 Dhaka · 🗓️ Oct 2023 – Nov 2023</sub></summary>
+  <summary><b><a href="https://gca.org" target="_blank">Global Center on Adaptation (GCA)</a></b> — <i>Intern (Locally Led Adaptation Program & Climate Finance Program)</i><br><sub>📍 Dhaka · 🗓️ Oct 2023 – Nov 2023</sub></summary>
 
 - Compiled transcripts on climate impacts to marginalized communities in northern & southern Bangladesh.
 - Conducted desk research on **local government roles** in climate adaptation.
