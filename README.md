@@ -13,11 +13,6 @@
 
 ---
 
-## 📑 Research Experience
-- <a href="Research/Thesis.md">Thesis: Exploring the Reasons Behind Land Cover Change & Evaluating Management Strategies of a Protected Area in Bangladesh</a> ↗
-
----
-
 ## 🛠️ Skills & Tools  
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
@@ -31,6 +26,11 @@
 ![MS PowerPoint](https://img.shields.io/badge/MS%20PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white) 
 ![PTV Vissim](https://img.shields.io/badge/PTV%20Vissim-CC0000?style=for-the-badge&logo=ptvgroup&logoColor=white) 
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white) 
+
+---
+
+## 📑 Research Experience
+- <a href="Research/Thesis.md">Thesis: Exploring the Reasons Behind Land Cover Change & Evaluating Management Strategies of a Protected Area in Bangladesh</a> ↗
 
 ---
 
