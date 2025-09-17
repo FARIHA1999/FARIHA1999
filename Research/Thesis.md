@@ -53,12 +53,53 @@
 </details>
 
 <details>
-  <summary><em>Pair Wise Matrix for Identifying the Major Causes Behind Land Cover Change</em></summary>
+  <summary><em>Reasons behind Land Cover Changes of the Study Area</em></summary>
   <p align="left">
-    <img src="./Pairwise.jpg" alt="Pmatrix" width="80%">
+    <img src="./reason.jpg" alt="Reason" width="80%">
   </p>
 </details>
 
+<details>
+  <summary><em>Change in Land Ownership of the Study Area</em></summary>
+  <p align="left">
+    <img src="./land%20ownership.jpg" alt="Reason" width="80%">
+  </p>
+</details>
+
+<details>
+  <summary><em>Land Encroachment</em></summary>
+  <p align="left">
+    <img src="./Land%20amount.jpg" alt="Land" width="80%">
+  </p>
+</details>
+
+<details>
+  <summary><em>Change in Local Livelihood Options</em></summary>
+  <p align="left">
+    <img src="./Socio%20economic.jpg" alt="livelihood" width="80%">
+  </p>
+</details>
+
+<details>
+  <summary><em>Identification of Possible Threats to the Study Area & Threat Extent and Severity</em></summary>
+  <p align="left">
+    <img src="./Detail%20Assessments%20of%20threats.jpg" alt="livelihood" width="70%">
+  </p>
+</details>
+
+<details>
+  <summary><em>Stakeholders Associated with the Management of Bhawal National Park</em></summary>
+  <p align="left">
+    <img src="./Stakeholder%20associated%20with%20the%20Forest%20Management%20Process.jpg" alt="stakeholders" width="70%">
+  </p>
+</details>
+
+<details>
+  <summary><em>Stakeholders Associated with the Management of Bhawal National Park</em></summary>
+  <p align="left">
+    <img src="./Stakeholder%20associated%20with%20the%20Forest%20Management%20Process.jpg" alt="stakeholders" width="70%">
+  </p>
+</details>
 ## Key Findings
 - Forestlands are increasingly encroached by industries & settlements.  
 - Institutional capacity is weak; eviction cases largely ineffective.  
