@@ -48,7 +48,6 @@
 
   <div align="center">
     <img src="Training%20on%20GCF.jpg" alt="Certificate: Capacity Building Workshop on GCF for SMEs, May 2025" width="48%">
-  </div>
 </details>
 
 <details>
