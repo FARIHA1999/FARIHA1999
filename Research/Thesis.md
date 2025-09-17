@@ -8,17 +8,17 @@
 
 ## Methodology
 
-**- Data Collection**  
-<p align="left">
-  <img src="./Methodology.jpg" alt="Data Collection" width="80%">
-</p>
+- *Data Collection*  
+  <p align="left">
+    <img src="./Methodology.jpg" alt="Data Collection" width="80%">
+  </p>
 
-**- Application of Participatory Rural Appraisal Tools**  
+- *Application of Participatory Rural Appraisal Tools*  
 <p align="left">
   <img src="./Pra.jpg" alt="Application of Participatory Rural Appraisal Tools" width="80%">
 </p>
 
-**- Application of Management Effectiveness Tracking Tool (METT)**  
+- *Application of Management Effectiveness Tracking Tool (METT) Tool*  
 <p align="left">
   <img src="./methodology%202.jpg" alt="Application of METT Tool" width="80%">
 </p>
