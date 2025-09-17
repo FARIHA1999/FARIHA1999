@@ -1,5 +1,5 @@
 # 👋 Hello, I am **Fariha Aktar**  
-*Urban and Regional Planner · Environmental Researcher · Remote Sensing Analyst*  
+*Urban and Regional Planner*  
 
 ---
 
