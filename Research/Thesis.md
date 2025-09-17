@@ -90,16 +90,17 @@
 <details>
   <summary><em>Stakeholders Associated with the Management of Bhawal National Park</em></summary>
   <p align="left">
-    <img src="./Stakeholder%20associated%20with%20the%20Forest%20Management%20Process.jpg" alt="stakeholders" width="70%">
+    <img src="./Stakeholder%20associated%20with%20the%20Forest%20Management%20Process.jpg" alt="stakeholders" width="60%">
   </p>
 </details>
 
 <details>
-  <summary><em>Stakeholders Associated with the Management of Bhawal National Park</em></summary>
+  <summary><em>Percentage of Five Elements of Management Effectiveness of the Study Area</em></summary>
   <p align="left">
-    <img src="./Stakeholder%20associated%20with%20the%20Forest%20Management%20Process.jpg" alt="stakeholders" width="70%">
+    <img src="./effectiveness.png" alt="effectiveness" width="80%">
   </p>
 </details>
+
 ## Key Findings
 - Forestlands are increasingly encroached by industries & settlements.  
 - Institutional capacity is weak; eviction cases largely ineffective.  
