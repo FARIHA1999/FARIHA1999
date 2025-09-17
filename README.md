@@ -29,33 +29,6 @@
 
 ---
 
-## 🎓 Education  
-<details>
-<summary><b>Bachelor of Urban and Regional Planning (BURP)</b></summary>
-
-Bangladesh University of Engineering & Technology (BUET), Dhaka-1000, Bangladesh  
-**Year:** 2019–2024  
-**CGPA:** 3.64 / 4.00
-</details>
-
-<details>
-<summary><b>Higher Secondary Certificate (HSC)</b></summary>
-
-Viqarunnisa Noon School and College, Dhaka, Bangladesh  
-**Year:** 2016–2018  
-**GPA:** 5.00 / 5.00
-</details>
-
-<details>
-<summary><b>Secondary School Certificate (SSC)</b></summary>
-
-Viqarunnisa Noon School and College, Dhaka, Bangladesh  
-**Year:** 2014–2016  
-**GPA:** 5.00 / 5.00
-</details>  
-
----
-
 ## 💼 Professional Experience  
 <details>
   <summary><b><a href="https://www.iwmbd.org/" target="_blank">Institute of Water Modelling (IWM)</a></b> — <i>Climate Associate</i><br><sub>📍 Dhaka · 🗓️ Dec 2024 – May 2025</sub></summary>
@@ -99,6 +72,21 @@ Viqarunnisa Noon School and College, Dhaka, Bangladesh
 - ESIA Reporting & Environmental Clearance Process  
 
 *(Certificate image to be added)*  
+</details>  
+
+---
+
+## 🎓 Education  
+<details>
+  <summary><b>Bachelor of Urban and Regional Planning (BURP)</b> — <a href="https://urp.buet.ac.bd/">Bangladesh University of Engineering & Technology (BUET)</a><br><sub>📍 Dhaka · 🗓️ 2019–2024 · CGPA: <b>3.64/4.00</b></sub></summary>
+</details>
+
+<details>
+  <summary><b>Higher Secondary Certificate (HSC)</b> — <a href="https://www.vnsc.edu.bd/">Viqarunnisa Noon School & College</a><br><sub>📍 Dhaka · 🗓️ 2016–2018 · GPA: <b>5.00/5.00</b></sub></summary>
+</details>
+
+<details>
+  <summary><b>Secondary School Certificate (SSC)</b> — <a href="https://www.vnsc.edu.bd/">Viqarunnisa Noon School & College</a><br><sub>📍 Dhaka · 🗓️ 2014–2016 · GPA: <b>5.00/5.00</b></sub></summary>
 </details>  
 
 ---
