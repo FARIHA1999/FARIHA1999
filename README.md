@@ -3,6 +3,16 @@
 
 ---
 
+## 🔬 Research Areas  
+- Protected Areas & Urban Forest Conservation  
+- Land Surface Temperature & Urban Heat Island Analysis  
+- Urban Expansion & Growth Pattern in Developing Countries  
+- Geo-AI Based Urban Solutions (ConvLSTM, CNN, CA-ANN)
+- Travel Behaviour & Transportation Planning 
+- Climate Change Adaptation
+
+---
+
 ## 🛠️ Skills & Tools  
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
@@ -16,16 +26,6 @@
 ![MS PowerPoint](https://img.shields.io/badge/MS%20PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white) 
 ![PTV Vissim](https://img.shields.io/badge/PTV%20Vissim-CC0000?style=for-the-badge&logo=ptvgroup&logoColor=white) 
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white) 
-
----
-
-## 🔬 Research Areas  
-- Protected Areas & Urban Forest Conservation  
-- Land Surface Temperature & Urban Heat Island Analysis  
-- Urban Expansion & Growth Pattern in Developing Countries  
-- Geo-AI Based Urban Solutions (ConvLSTM, CNN, CA-ANN)
-- Travel Behaviour & Transportation Planning 
-- Climate Change Adaptation 
 
 ---
 
