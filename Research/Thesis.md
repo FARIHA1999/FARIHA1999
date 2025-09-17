@@ -67,13 +67,6 @@
 </details>
 
 <details>
-  <summary><em>Land Encroachment</em></summary>
-  <p align="left">
-    <img src="./Land%20amount.jpg" alt="Land" width="60%">
-  </p>
-</details>
-
-<details>
   <summary><em>Change in Local Livelihood Options</em></summary>
   <p align="left">
     <img src="./Socio%20economic.jpg" alt="livelihood" width="100%">
