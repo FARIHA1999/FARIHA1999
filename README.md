@@ -93,7 +93,7 @@
          width="70%">
   </div>
 </details>
-
+**Resource:** 📎 <a href="https://www.iwmbd.org/assets/uploads/iwm/training/courses/Flyer%20ESIA_May_Rev_2025.pdf">Official Course Flyer (PDF)</a>
 </details>
 
 
