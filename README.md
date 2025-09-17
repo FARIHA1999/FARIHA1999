@@ -7,7 +7,7 @@
 - Protected Areas & Urban Forest Conservation Management
 - Land Surface Temperature & Urban Heat Island Analysis  
 - Urban Expansion & Growth Pattern in Developing Countries  
-- Geo-AI Based Urban Solutions (ConvLSTM, CNN, CA-ANN)
+- Geo-AI Based Urban Solutions 
 - Travel Behaviour & Transportation Planning 
 - Climate Change Adaptation
 
