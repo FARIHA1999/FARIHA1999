@@ -42,12 +42,18 @@
 - Led stakeholder communication and program logistics across government, development partners, and private sector.
 
 **Highlight:** 🏆 2nd place in the “Capacity Building Workshop with Government Officials on Strengthening Access to the GCF for SMEs in Bangladesh” (May 2025).
+
 <details>
   <summary>📄 View certificate</summary>
 
   <div align="center">
-    <img src="Training%20on%20GCF.jpg" alt="Certificate: Capacity Building Workshop on GCF for SMEs, May 2025" width="48%">
+    <img src="Training%20on%20GCF.jpg"
+         alt="Certificate: Capacity Building Workshop on GCF for SMEs, May 2025"
+         width="70%">
+  </div>
 </details>
+
+</details> <!-- ✅ END IWM block -->
 
 <details>
   <summary><b><a href="https://gca.org" target="_blank">Global Center on Adaptation (GCA)</a></b> — <i>Consultant, Training Program on Adaptation Finance</i><br><sub>📍 Dhaka · 🗓️ Sep 2024 – Nov 2024</sub></summary>
