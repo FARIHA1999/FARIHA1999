@@ -90,7 +90,7 @@
   <div align="center">
     <img src="ESIA%20Training.PNG"
          alt="ESIA Training Certificate (IWM)"
-         width="70%">
+         width="50%">
   </div>
 </details>
 📎 <a href="https://www.iwmbd.org/assets/uploads/iwm/training/courses/Flyer%20ESIA_May_Rev_2025.pdf">Official Course Flyer (PDF)</a>
