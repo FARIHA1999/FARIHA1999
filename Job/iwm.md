@@ -1,5 +1,6 @@
-<details>
-  <summary> — <i>Climate Associate</i><br><sub>📍 Dhaka · 🗓️ Dec 2024 – May 2025</sub></summary>
+##Designation: Climate Associate
+
+  <sub>📍 Dhaka · 🗓️ Dec 2024 – May 2025</sub></summary>
 
 <sub>Deputed at the <b>International Climate Finance Cell (ICFC)</b>, Economic Relations Division (ERD), Ministry of Finance, Government of Bangladesh.</sub>
 
@@ -21,4 +22,4 @@
   </div>
 </details>
 
-</details> <!-- ✅ END IWM block -->
+
