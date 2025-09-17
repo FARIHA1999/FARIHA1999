@@ -102,6 +102,10 @@
 </details>
 
 ## Major Findings
+
+<details>
+  <summary>
+
 - The forestlands of Bhawal National Park are gradually encroached through establishing industries, settlements or expanding agricultural lands. 
 - At present, 989.36 acres forestlands are illegally encroached by industries, agro based farms or private cottages. The total land valuation of the encroached lands is 197872 crore BDT. 
 - The Forest Department have filed 985 eviction cases against the illegal encroachers. Only 326.36 acres (30%) forestlands are restored from the encroachers. 
@@ -110,6 +114,7 @@
 - Bangladesh Forest Department has weak institutional capacity to directly enforce the laws against the forest crimes.
 - The current management process is excluding the local people from decision-making process and management activities. 
 
-
+</summary>
+</details>
 
 
