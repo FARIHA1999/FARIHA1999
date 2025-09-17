@@ -7,7 +7,7 @@
 2. To evaluate management strategies for the selected protected area.
 
 <details>
-  <summary><b>Methodology</b> (click to expand)</summary>
+  <summary><b>## Methodology</b> (click to expand)</summary>
 
 - *Data Collection*  
   <p align="left">
