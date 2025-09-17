@@ -8,29 +8,21 @@
 
 ## Methodology
 
-<p align="center"><b>Data Collection</b></p>
+**Data Collection**  
 <p align="center">
-  <img src="https://github.com/FARIHA1999/FARIHA1999/commit/474c70a95febb405b61aaa10883552b402659d6a#diff-7d1d18950482ed53aefda8bf1d11f8fa33d322704e406f583d10634de31b9d97"
-       alt="Data collection"
-       width="85%">
+  <img src="./Methodology.jpg" alt="Data Collection" width="85%">
 </p>
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github.com/FARIHA1999/FARIHA1999/commit/474c70a95febb405b61aaa10883552b402659d6a#diff-128516ec25366774ea145b8d98f18063c8dd1ccc5bfd40d34f35658b4367b1f0"
-           alt="Data analysis: Application of Participatory Rural Appraisal Tools"
-           width="100%"><br>
-      <em>Participatory Rural Appraisal Tools</em>
-    </td>
-    <td align="center" width="50%">
-      <img src="../assets/thesis/data_analysis_2.jpg"
-           alt="Data analysis: Application of METT Tool"
-           width="100%"><br>
-      <em>Application of METT Tool</em>
-    </td>
-  </tr>
-</table>
+**Application of Participatory Rural Appraisal Tools**  
+<p align="center">
+  <img src="./Pra.jpg" alt="Application of Participatory Rural Appraisal Tools" width="85%">
+</p>
+
+**Application of Management Effectiveness Tracking Tool (METT)**  
+<p align="center">
+  <img src="./methodology%202.jpg" alt="Application of METT Tool" width="85%">
+</p>
+
 
 
 ## Results
