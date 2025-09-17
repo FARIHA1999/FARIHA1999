@@ -13,6 +13,11 @@
 
 ---
 
+## 📑 Research Experience
+- <a href="Research/Thesis.md">Thesis: Exploring the Reasons Behind Land Cover Change & Evaluating Management Strategies of a Protected Area in Bangladesh</a> ↗
+
+---
+
 ## 🛠️ Skills & Tools  
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
@@ -104,43 +109,6 @@
   <b>Higher Secondary Certificate (HSC)</b> — <a href="https://www.vnsc.edu.bd/">Viqarunnisa Noon School & College</a><br><sub>📍 1/A, New Baily Road, Dhaka-1000, Bangladesh · 🗓️ 2016–2018 · GPA: <b>5.00/5.00</b></sub>
 
   <b>Secondary School Certificate (SSC)</b> — <a href="https://www.vnsc.edu.bd/">Viqarunnisa Noon School & College</a><br><sub>📍 Bashundhara R/A, Dhaka-1229, Bangladesh · 🗓️ 2014–2016 · GPA: <b>5.00/5.00</b></sub>
-
----
-
-## 📑 Research Experience  
-<details>  
-<summary><b>Thesis:</b> Exploring the Reasons Behind Land Cover Change & Evaluating Management Strategies of a Protected Area (2023–2024)</summary>  
-
-**Objectives:**  
-1. Investigate drivers of land cover change in Bhawal National Park.  
-2. Evaluate the effectiveness of current management strategies.  
-
-**Methodology:**  
-- Data collection (satellite imagery + field survey).  
-- GIS & statistical analysis. *(2 methodology images to be added)*  
-
-**Results (Images to be inserted):**  
-1. Social & Resource Map of Study Area  
-2. Temporal Land Cover Change (2000–2020)  
-3. Pairwise Matrix of Drivers  
-4. Encroachment Analysis (989.36 acres illegally occupied, only 30% restored)  
-5. Stakeholder Mapping & Effectiveness Assessment (only 30.13% effective)  
-
-**Findings:**  
-- Forestlands are increasingly encroached by industries & settlements.  
-- Institutional capacity is weak; eviction cases largely ineffective.  
-- Local communities excluded from decision-making.  
-- Current management system is **ineffective for long-term conservation**.  
-</details>  
-
-<details>  
-<summary><b>Other Research Projects</b></summary>  
-- Growth Pattern of Kaliganj & Chatok Paurashava (2000–2020)  
-- Informal Market Study: Stakeholders & Management Challenges  
-- Farming vs Non-Farming Communities’ Livelihood Perceptions  
-- GIS-based Network Analysis for Fire Station to Hospital Service Areas (Dhaka)  
-- Climate-Resilient Landscape Plan for Jamuna River Basin  
-</details>  
 
 ---
 
