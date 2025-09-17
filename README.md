@@ -34,6 +34,29 @@
 
 ---
 
+## 📘 Academic Projects  
+<details>  
+<summary>Participatory Planning Studio</summary>  
+*(Details & images to be inserted)*  
+</details>  
+
+<details>  
+<summary>Project Planning Studio</summary>  
+*(Details & images to be inserted)*  
+</details>  
+
+<details>  
+<summary>Regional Planning Studio</summary>  
+*(Details & images to be inserted)*  
+</details>  
+
+<details>  
+<summary>Transportation Planning Studio</summary>  
+*(Details & images to be inserted)*  
+</details>  
+
+---
+
 ## 💼 Professional Experience  
 <details>
   <summary><b><a href="https://www.iwmbd.org/">Institute of Water Modelling (IWM)</a></b> — <i>Climate Associate</i><br><sub>📍 Dhaka · 🗓️ Dec 2024 – May 2025</sub></summary>
@@ -109,29 +132,6 @@
   <b>Higher Secondary Certificate (HSC)</b> — <a href="https://www.vnsc.edu.bd/">Viqarunnisa Noon School & College</a><br><sub>📍 1/A, New Baily Road, Dhaka-1000, Bangladesh · 🗓️ 2016–2018 · GPA: <b>5.00/5.00</b></sub>
 
   <b>Secondary School Certificate (SSC)</b> — <a href="https://www.vnsc.edu.bd/">Viqarunnisa Noon School & College</a><br><sub>📍 Bashundhara R/A, Dhaka-1229, Bangladesh · 🗓️ 2014–2016 · GPA: <b>5.00/5.00</b></sub>
-
----
-
-## 📘 Academic Projects (Studios)  
-<details>  
-<summary>Participatory Planning Studio</summary>  
-*(Details & images to be inserted)*  
-</details>  
-
-<details>  
-<summary>Project Planning Studio</summary>  
-*(Details & images to be inserted)*  
-</details>  
-
-<details>  
-<summary>Regional Planning Studio</summary>  
-*(Details & images to be inserted)*  
-</details>  
-
-<details>  
-<summary>Transportation Planning Studio</summary>  
-*(Details & images to be inserted)*  
-</details>  
 
 ---
 
