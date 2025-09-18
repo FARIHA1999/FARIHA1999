@@ -21,7 +21,7 @@
 - **FGD with vendors:** Guided discussions on daily operations, constraints, and support systems; sessions intentionally included **female vendors**.  
 - **KII with community members/market actors:** Semi-structured interviews to clarify stakeholder roles and relationships affecting market management.
 
-**Ethics**  
+**Ethical Consideration**  
 - Explained study purpose to participants; **voluntary participation**.  
 - **Anonymity** assured; no personally identifying information reported.
 
