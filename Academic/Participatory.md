@@ -20,7 +20,7 @@
   - Secondary: Documents and background materials relevant to the site.
 
 - **Methods & instruments**  
-  -Checklist-based observation: Documented vendor categories, exact locations and seating arrangements (road, footpath, vacant plot); supported by photo documentation and sketch mapping.  
+  - Checklist-based observation: Documented vendor categories, exact locations and seating arrangements (road, footpath, vacant plot); supported by photo documentation and sketch mapping.  
   - FGD with vendors: Guided discussions on daily operations, constraints, and support systems; sessions intentionally included **female vendors**.  
   - KII with community members/market actors: Semi-structured interviews to clarify stakeholder roles and relationships affecting market management.
 
