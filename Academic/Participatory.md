@@ -10,7 +10,7 @@
 
 - **Location of the Study Area**  
   <p align="left">
-    <img src="./Picture8.png.jpg" alt="Study Area" width="70%">
+    <img src="./Picture8.png.jpg" alt="Study Area" width="90%">
   </p>
  
 - **Participants:** Temporary/itinerant vendors and nearby residents.
@@ -66,6 +66,9 @@
 [![Project Presentation](https://img.shields.io/static/v1?label=Project%20Presentation&message=%20&color=E74C3C&style=for-the-badge)](Academic/Presentation.pdf)
 [![Project Report](https://img.shields.io/static/v1?label=Project%20Report&message=%20&color=F39C12&style=for-the-badge)](Academic/Report.pdf)
 
-
+- **Field Survey**  
+  <p align="left">
+    <img src="./Picture9.png" alt="Study Area" width="90%">
+  </p>
 
 
