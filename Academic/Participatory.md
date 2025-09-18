@@ -6,7 +6,7 @@
 - To explore the relationship and role of stakeholders in informal markets at the local level
 
 <details>
-  <summary><b><a href="t">Tools & Techniques Used for Data Collection — <i>Click to view</i></a></b></summary>
+  <summary><b><a href="t">Tools & Techniques Used for Data Collection — <i><sub>Click to view</sub></i></a></b></summary>
 
 **Purpose of the fieldwork**  
 To understand the spatial/temporal nature of the informal market, the problems faced by vendors and users, and the roles/relations of local stakeholders.
