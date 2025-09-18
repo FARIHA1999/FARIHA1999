@@ -1,4 +1,4 @@
-# Greetings! I am **Fariha Aktar**  
+# Greetings! I am **Fariha Aktar**.  
 *Urban and Regional Planner*  
 
 ---
