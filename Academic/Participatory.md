@@ -8,8 +8,14 @@
 <details>
   <summary><b><a href="t">🛠️ Tools & Techniques Used for Data Collection — <i>Click to view</i></a></b></summary><br>
 
-**Study setting & participants**  
-- **Location:** Around *Iraqi Playground*.  
+**Study Area & participants**  
+<details>
+  <em>Location of the Study Area</em>
+  <p align="left">
+    <img src="./Methodology.jpg" alt="Data Collection" width="80%">
+  </p>
+</details>
+ 
 - **Participants:** Temporary/itinerant vendors and nearby residents.
 
 **Data sources**  
@@ -62,4 +68,7 @@
  
 [![Project Presentation](https://img.shields.io/static/v1?label=Project%20Presentation&message=%20&color=E74C3C&style=for-the-badge)](Academic/Presentation.pdf)
 [![Project Report](https://img.shields.io/static/v1?label=Project%20Report&message=%20&color=F39C12&style=for-the-badge)](Academic/Report.pdf)
+
+
+
 
