@@ -9,12 +9,10 @@
   <summary><b><a href="t">🛠️ Tools & Techniques Used for Data Collection — <i>Click to view</i></a></b></summary><br>
 
 **Study Area & participants**  
-<details>
   <em>Location of the Study Area</em>
   <p align="left">
-    <img src="./Methodology.jpg" alt="Data Collection" width="80%">
+    <img src="./Picture8.png.jpg" alt="Study Area" width="70%">
   </p>
-</details>
  
 - **Participants:** Temporary/itinerant vendors and nearby residents.
 
