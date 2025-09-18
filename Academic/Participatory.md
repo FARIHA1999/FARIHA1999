@@ -1,12 +1,12 @@
 <i> **📘 Project Title:** A Study on Informal Market at the Local Level and the Role of Stakeholders</i>
 
-**🎯 Objectives**
+###🎯 Objectives
 - To understand the spatial and temporal extent of informal markets at the local level  
 - To identify and analyze the problems faced by informal businessmen and users  
 - To explore the relationship and role of stakeholders in informal markets at the local level
 
 <details>
-  <summary><b><a href="t">🛠️ Tools & Techniques Used for Data Collection — <i>Click to view</i></a></b></summary>
+  <summary><b><a href="t">### 🛠️ Tools & Techniques Used for Data Collection — <i>Click to view</i></a></b></summary><br>
 
 **Purpose of the fieldwork**  
 To understand the spatial/temporal nature of the informal market, the problems faced by vendors and users, and the roles/relations of local stakeholders.
@@ -33,7 +33,7 @@ To understand the spatial/temporal nature of the informal market, the problems f
 
 </details>
 
-### 📊 Major Findings — Informal Market at Iraqi Playground
+### 📊 Major Findings
 
 - 📍 **Location: mixed suitability**
   - **Advantages:** steady demand from nearby households; little congestion or pedestrian conflict.
