@@ -1,6 +1,6 @@
 <i> **📘 Project Title:** A Study on Informal Market at the Local Level and the Role of Stakeholders</i>
 
-### 🎯 Objectives
+**🎯 Objectives**
 - To understand the spatial and temporal extent of informal markets at the local level  
 - To identify and analyze the problems faced by informal businessmen and users  
 - To explore the relationship and role of stakeholders in informal markets at the local level
@@ -30,7 +30,8 @@
 
 </details>
 
-### 📊 Major Findings
+<details>
+  <summary><b><a href="t">📊 Major Findings — <i>Click to view</i></a></b></summary><br>
 
 - 📍 **Location: mixed suitability**
   - **Advantages:** steady demand from nearby households; little congestion or pedestrian conflict.
@@ -57,7 +58,7 @@
 - 🧑‍🤝‍🧑 **Customer perceptions: price and environment concerns**
   - Price hikes linked to extortion/maintenance costs and rainy-season scarcity.
   - Complaints about playground disruption, child safety, hygiene, and impacts on privacy/security of nearby residents.
-
+</details>
  
 [![Project Presentation](https://img.shields.io/static/v1?label=Project%20Presentation&message=%20&color=E74C3C&style=for-the-badge)](Academic/Presentation.pdf)
 [![Project Report](https://img.shields.io/static/v1?label=Project%20Report&message=%20&color=F39C12&style=for-the-badge)](Academic/Report.pdf)
