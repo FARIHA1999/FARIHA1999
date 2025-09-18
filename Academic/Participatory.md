@@ -31,7 +31,7 @@
 **Field outputs**  
 - Qualitative notes/transcripts, **maps & sketches**, and **photographs** used for analysis and reporting.
 
-</details>
+</details> <br>
 
 <details>
   <summary><b><a href="t">📊 Major Findings — <i>Click to view</i></a></b></summary><br>
@@ -61,10 +61,10 @@
 - 🧑‍🤝‍🧑 **Customer perceptions: price and environment concerns**
   - Price hikes linked to extortion/maintenance costs and rainy-season scarcity.
   - Complaints about playground disruption, child safety, hygiene, and impacts on privacy/security of nearby residents.
-</details>
+</details> <br>
  
 [![Project Presentation](https://img.shields.io/static/v1?label=Project%20Presentation&message=%20&color=E74C3C&style=for-the-badge)](Academic/Presentation.pdf)
-[![Project Report](https://img.shields.io/static/v1?label=Project%20Report&message=%20&color=F39C12&style=for-the-badge)](Academic/Report.pdf)
+[![Project Report](https://img.shields.io/static/v1?label=Project%20Report&message=%20&color=F39C12&style=for-the-badge)](Academic/Report.pdf) <br>
 
 - **Field Survey - December 7, 2023**  
   <p align="left">
