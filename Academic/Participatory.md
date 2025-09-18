@@ -31,7 +31,7 @@
 **Field outputs**  
 - Qualitative notes/transcripts, **maps & sketches**, and **photographs** used for analysis and reporting.
 
-</details> <br>
+</details>
 
 <details>
   <summary><b><a href="t">📊 Major Findings — <i>Click to view</i></a></b></summary><br>
