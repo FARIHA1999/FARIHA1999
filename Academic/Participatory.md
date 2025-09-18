@@ -1,4 +1,4 @@
-<i> **📘 Project Title: A Study on Informal Market at the Local Level and the Role of Stakeholders**</i>
+<i> **📘 Project Title:** A Study on Informal Market at the Local Level and the Role of Stakeholders</i>
 
 **🎯 Objectives**
 - To understand the spatial and temporal extent of informal markets at the local level  
