@@ -1,4 +1,4 @@
-<i> Project Title: A Study on Informal Market at the Local Level and the Role of Stakeholders</i>
+<i> **📘 Project Title: A Study on Informal Market at the Local Level and the Role of Stakeholders**</i>
 
 **🎯 Objectives**
 - To understand the spatial and temporal extent of informal markets at the local level  
@@ -6,7 +6,7 @@
 - To explore the relationship and role of stakeholders in informal markets at the local level
 
 <details>
-  <summary><b><a href="t">Tools & Techniques Used for Data Collection — <i><sub>Click to view</sub></i></a></b></summary>
+  <summary><b><a href="t">🛠️ Tools & Techniques Used for Data Collection — <i><sub>Click to view</sub></i></a></b></summary>
 
 **Purpose of the fieldwork**  
 To understand the spatial/temporal nature of the informal market, the problems faced by vendors and users, and the roles/relations of local stakeholders.
@@ -33,7 +33,8 @@ To understand the spatial/temporal nature of the informal market, the problems f
 
 </details>
 
-  
+ **📊 Major Findings**
+ 
 [![Project Presentation](https://img.shields.io/static/v1?label=Project%20Presentation&message=%20&color=E74C3C&style=for-the-badge)](Academic/Presentation.pdf)
 [![Project Report](https://img.shields.io/static/v1?label=Project%20Report&message=%20&color=F39C12&style=for-the-badge)](Academic/Report.pdf)
 
