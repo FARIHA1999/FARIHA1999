@@ -35,7 +35,7 @@
 ---
 
 ## 📘 Academic Projects  
-
+- <a href="Academic/Participatory.md">Participatory Planning Studio</a> ↗
 
 <details>  
   <summary>Project Planning Studio</summary>  
