@@ -9,7 +9,7 @@
 ## Methodology
 
 <details>
-  <summary><em>Data Collection</em></summary>
+  <summary><em>Data Collection</em> — <i>click to view</i></summary>
   <p align="left">
     <img src="./Methodology.jpg" alt="Data Collection" width="80%">
   </p>
