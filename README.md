@@ -37,18 +37,11 @@
 ## 📘 Academic Projects  
 - <a href="Academic/Participatory.md">Participatory Planning Studio</a> ↗ <br>
 - <a href="Academic/Project/project.md">Project Planning Studio</a> ↗ <br>
-
-
-<details>  
-<summary>Regional Planning Studio</summary>  
-*(Details & images to be inserted)*  
-</details>  
-
-<details>  
-<summary>Transportation Planning Studio</summary>  
-*(Details & images to be inserted)*  
-</details>  
-
+- <a href="Academic/Transportaion/Transportaion.md">Transportaion Planning Studio</a> ↗ <br>
+- <a href="Academic/Regional/Regional.md">Regional Planning Studio</a> ↗ <br>
+- <a href="Academic/Regional/Regional.md">Project Planning Studio</a> ↗ <br>
+- <a href="Academic/Rural/Rural.md">Rural Planning Studio</a> ↗ <br>
+- <a href="Academic/Rural/Rural.md">Rural Planning Studio</a> ↗ <br>
 ---
 
 ## 💼 Professional Experience  
