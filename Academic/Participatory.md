@@ -8,8 +8,7 @@
 <details>
   <summary><b><a href="t">🛠️ Tools & Techniques Used for Data Collection — <i>Click to view</i></a></b></summary><br>
 
-**Study Area & participants**  
-  <em>Location of the Study Area</em>
+- **Location of the Study Area**  
   <p align="left">
     <img src="./Picture8.png.jpg" alt="Study Area" width="70%">
   </p>
