@@ -1,3 +1,3 @@
-<i> - **Project 1:** Concept Note Preparation</i>
-**Project Title:** Build Back Better, Construction of Multipurpose Cyclone Shelter 
+<i>**Project 1:** Concept Note Preparation</i><br>
+- **Project Title:** Build Back Better, Construction of Multipurpose Cyclone Shelter <br>
 [![Concept Note](https://img.shields.io/static/v1?label=Project%20Presentation&message=%20&color=E74C3C&style=for-the-badge)](Academic/Project/Concept.pdf)
