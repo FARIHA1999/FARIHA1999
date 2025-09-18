@@ -16,79 +16,79 @@
 </details>
 
 <details>
-  <summary><em>Application of Participatory Rural Appraisal Tools</em></summary>
+  <summary><a href="#pra"><em>Application of Participatory Rural Appraisal Tools</em></a></summary>
   <p align="left">
     <img src="./Pra.jpg" alt="Application of Participatory Rural Appraisal Tools" width="80%">
   </p>
 </details>
 
 <details>
-  <summary><em>Application of Management Effectiveness Tracking Tool (METT)</em></summary>
+  <summary><a href="#mett"><em>Application of Management Effectiveness Tracking Tool (METT)</em></a></summary>
   <p align="left">
     <img src="./methodology%202.jpg" alt="Application of METT Tool" width="80%">
   </p>
 </details>
 
 ## Results
-
+ — <i><sub>click the drop down button to view</sub></i>
 <details>
-  <summary><em>Social and Resource Map of the Study Area</em></summary>
+  <summary><a href="#social"><em>Social and Resource Map of the Study Area</em></a></summary>
   <p align="left">
     <img src="./Social%20and%20Resource%20Map.JPG" alt="Social and Resource Map" width="70%">
   </p>
 </details>
 
 <details>
-  <summary><em>Temporal Change in the Study Area</em></summary>
+  <summary><a href="#tem"><em>Temporal Change in the Study Area</em></a></summary>
   <p align="left">
     <img src="./Temporal%20change.png.jpg" alt="Temporal Change" width="80%">
   </p>
 </details>
 
 <details>
-  <summary><em>Pair Wise Matrix for Identifying the Major Causes Behind Land Cover Change</em></summary>
+  <summary><a href="#pair"><em>Pair Wise Matrix for Identifying the Major Causes Behind Land Cover Change</em></a></summary>
   <p align="left">
     <img src="./Pairwise.jpg" alt="Pmatrix" width="80%">
   </p>
 </details>
 
 <details>
-  <summary><em>Reasons behind Land Cover Changes of the Study Area</em></summary>
+  <summary><a href="#r"><em>Reasons behind Land Cover Changes of the Study Area</em></a></summary>
   <p align="left">
     <img src="./reason.jpg" alt="Reason" width="80%">
   </p>
 </details>
 
 <details>
-  <summary><em>Change in Land Ownership of the Study Area</em></summary>
+  <summary><a href="#cng"><em>Change in Land Ownership of the Study Area</em></a></summary>
   <p align="left">
     <img src="./land%20ownership.jpg" alt="Reason" width="80%">
   </p>
 </details>
 
 <details>
-  <summary><em>Change in Local Livelihood Options</em></summary>
+  <summary><a href="#live"><em>Change in Local Livelihood Options</em></a></summary>
   <p align="left">
     <img src="./Socio%20economic.jpg" alt="livelihood" width="100%">
   </p>
 </details>
 
 <details>
-  <summary><em>Identification of Possible Threats to the Study Area & Threat Extent and Severity</em></summary>
+  <summary><a href="#threat"><em>Identification of Possible Threats to the Study Area & Threat Extent and Severity</em></a></summary>
   <p align="left">
     <img src="./Detail%20Assessments%20of%20threats.jpg" alt="livelihood" width="80%">
   </p>
 </details>
 
 <details>
-  <summary><em>Stakeholders Associated with the Management of Bhawal National Park</em></summary>
+  <summary><a href="#s"><em>Stakeholders Associated with the Management of Bhawal National Park</em></a></summary>
   <p align="left">
     <img src="./Stakeholder%20associated%20with%20the%20Forest%20Management%20Process.jpg" alt="stakeholders" width="80%">
   </p>
 </details>
 
 <details>
-  <summary><em>Percentage of Five Elements of Management Effectiveness of the Study Area</em></summary>
+  <summary><a href="#e"><em>Percentage of Five Elements of Management Effectiveness of the Study Area</em></a></summary>
   <p align="left">
     <img src="./effectiveness.png.jpg" alt="effectiveness" width="60%">
   </p>
