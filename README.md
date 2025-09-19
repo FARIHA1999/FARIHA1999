@@ -40,7 +40,13 @@
 - <a href="Academic/Transportation/Transportation.md">Transportation Planning Studio</a> ↗ <br>
 - <a href="Academic/Regional/Regional.md">Regional Planning Studio</a> ↗ <br>
 - <a href="Academic/Rural/Rural.md">Rural Planning Studio</a> ↗ <br>
-- <a href="Academic/Rural/Rural.md">Rural Planning Studio</a> ↗ <br>
+- <a href="Academic/Program/Program.md">Programming Studio</a> ↗ <br>
+- <a href="Academic/GIS/GIS.md">GIS and Remote Sensing Studio</a> ↗ <br>
+- <a href="Academic/Urban/Urban.md">Urban Planning Studio</a> ↗ <br>
+- <a href="Academic/Landscape/Landscape.md">Landscape Planning Studio</a> ↗ <br>
+- <a href="Academic/Site/Site.md">Site and Area Planning Studio</a> ↗ <br>
+- <a href="Academic/Social/Social.md">Social and Physical Surveys</a> ↗ <br>
+- <a href="Academic/Carto/Carto.md">Surveying and Cartography Workshop</a> ↗ <br>
 ---
 
 ## 💼 Professional Experience  
