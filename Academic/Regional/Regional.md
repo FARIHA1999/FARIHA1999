@@ -1,4 +1,4 @@
-# <i>**Project 1:** Long Run Analysis of Economic Structure of the Selected Regions in Bangladesh: A Shift Share Method</i> <br>
+## <i>**Project 1:** Long Run Analysis of Economic Structure of the Selected Regions in Bangladesh: A Shift Share Method</i> <br>
 
 **🎯 Objective** 
 1. To assess the regional economic growth of selected districts based on the shift share components. 
