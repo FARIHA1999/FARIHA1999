@@ -8,6 +8,3 @@ Before initiating any rural development program to fulfill rural people’s need
 
 [![332](https://img.shields.io/static/v1?label=Full%20Article&message=%20&color=0A66C2&style=for-the-badge)](Report.pdf) <br>
 
-[![332](https://img.shields.io/static/v1?label=Field%20Survey%20Presentation&message=%20&color=FFD700&style=for-the-badge)](332.pdf) <br>
-<br>
-
