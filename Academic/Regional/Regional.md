@@ -27,7 +27,7 @@
 <i>**Project 3:** Spatial Concentration of Public Facilities in the Districts of Bangladesh</i> <br>
 
 **🎯 Objective:** 
-To explore the spatial concentration of public facilities, which include primary and secondary schools, colleges, hospitals, growth centers and rural markets in the districts of Bangladesh as well as delineate the regions that have deficiency and concentration of the facilities.
+To explore the spatial concentration of public facilities, which include primary and secondary schools, colleges, hospitals, growth centers and rural markets in the districts of Bangladesh as well as delineate the regions that have deficiency and concentration of the facilities.<br>
 <br>
 
 [![LQ](https://img.shields.io/static/v1?label=Project%20Report&message=%20&color=0A66C2&style=for-the-badge)](LQ_report.pdf) <br>
