@@ -4,7 +4,7 @@
 
 [![audit](https://img.shields.io/static/v1?label=Accessibility%20and%20Safety%20Audit%20Presentation&message=%20&color=0A66C2&style=for-the-badge)](Audit.pdf) <br>
 
-[![audit](https://img.shields.io/static/v1?label=Accessibility%20and%20Safety%20Audit%20Indicators&message=%20&color=F39C12&style=for-the-badge)](Indicators.pdf) <br>
+[![audit](https://img.shields.io/static/v1?label=Accessibility%20and%20Safety%20Audit%20Indicators&message=%20&color=FFD700&style=for-the-badge)](Indicators.pdf) <br>
 <br>
 <i>**Project 2:** Experience Trip and Mode Choices</i> <br>
 
@@ -24,7 +24,7 @@
 
 **🎯 Objective:** To identify the impacts of establishing educational institutions on existing traffic conditionc<br>
 
-[![tia](https://img.shields.io/static/v1?label=Reconnaissance%20Survey%20Presentation&message=%20&color=0A66C2&style=for-the-badge)](Rtia.pdf) <br>
+[![tia](https://img.shields.io/static/v1?label=Reconnaissance%20Survey%20Presentation&message=%20&color=FFFF00&style=for-the-badge)](Rtia.pdf) <br>
 <br>
 [![tia](https://img.shields.io/static/v1?label=TIA%20Presentation&message=%20&color=F39C12&style=for-the-badge)](tia.pdf) <br>
 <br>
