@@ -6,21 +6,22 @@
 
 [![audit](https://img.shields.io/static/v1?label=Accessibility%20and%20Safety%20Audit%20Indicators&message=%20&color=FFD700&style=for-the-badge)](Indicators.pdf) <br>
 <br>
+
 <i>**Project 2:** Experience Trip and Mode Choices</i> <br>
 
 **🎯 Objective:** To assess mode availability and justify route-specific mode choices using indicators of accessibility, cost, and comfort/safety. <br>
 
-[![Trip](https://img.shields.io/static/v1?label=Project%20Findings&message=%20&color=E74C3C&style=for-the-badge)](trip.pdf) 
+[![Trip](https://img.shields.io/static/v1?label=Project%20Findings&message=%20&color=E74C3C&style=for-the-badge)](trip.pdf) <br>
 <br>
 
-<i>**Project 3:**Highway Conditions during Eid Festivals in Bangladesh</i> <br>
+<i>**Project 3:** Highway Conditions during Eid Festivals in Bangladesh</i> <br>
 
 **🎯 Objective:** To observe highway traffic conditions during eid festivals using Google Map<br>
 
 [![Highway](https://img.shields.io/static/v1?label=Project%20Findings&message=%20&color=0A66C2&style=for-the-badge)](highway.pdf) <br>
 <br>
 
-<i>**Project 4:**Traffic Impact Assessment of an Educational Institution in the Capital City of Bangladesh</i> <br>
+<i>**Project 4:** Traffic Impact Assessment of an Educational Institution in the Capital City of Bangladesh</i> <br>
 
 **🎯 Objective:** To identify the impacts of establishing educational institutions on existing traffic conditionc<br>
 
