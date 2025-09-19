@@ -5,6 +5,7 @@
 2. To examine the effect of the selected economic sectors on the regional growth based on shift share components. 
 3. To find out the possible reason of positive and negative value of the shift share components.
 <br>
+
 [![shitft](https://img.shields.io/static/v1?label=Project%20Report&message=%20&color=0A66C2&style=for-the-badge)](Report1.pdf) <br>
 
 [![shitft](https://img.shields.io/static/v1?label=Project%20Presentation&message=%20&color=FFD700&style=for-the-badge)](shiftshare.pdf) <br>
@@ -17,6 +18,7 @@
 2. To compare and highlight the human development levels among all the districts across the country. 
 3. To explore the possible reasons of backward and developed regions based on the parameters of the HDI.  
 <br>
+
 [![formal](https://img.shields.io/static/v1?label=Project%20Report&message=%20&color=0A66C2&style=for-the-badge)](Report_formal_regionalization.pdf) <br>
 
 [![formal](https://img.shields.io/static/v1?label=Project%20Presentation&message=%20&color=FFD700&style=for-the-badge)](Presentation_formal_regionalization.pdf)<br>
@@ -27,6 +29,7 @@
 **🎯 Objective:** 
 To explore the spatial concentration of public facilities, which include primary and secondary schools, colleges, hospitals, growth centers and rural markets in the districts of Bangladesh as well as delineate the regions that have deficiency and concentration of the facilities.
 <br>
+
 [![LQ](https://img.shields.io/static/v1?label=Project%20Report&message=%20&color=0A66C2&style=for-the-badge)](LQ_report.pdf) <br>
 
 [![LQ](https://img.shields.io/static/v1?label=Project%20Presentation&message=%20&color=FFD700&style=for-the-badge)](LQ_presentation.pdf) <br>
@@ -38,6 +41,7 @@ To explore the spatial concentration of public facilities, which include primary
 1. To identify and analyze the factors which influence the larger and smaller catchment area of the selected districts of Bangladesh. 
 2. To explore the interrelationship among the factors influencing the catchment area of the selected districts.
 <br>
+
 [![FR](https://img.shields.io/static/v1?label=Project%20Report&message=%20&color=0A66C2&style=for-the-badge)](Regionalization_Report.pdf) <br>
 
 [![LQ](https://img.shields.io/static/v1?label=Project%20Presentation&message=%20&color=FFD700&style=for-the-badge)](Regionalization_Presentation.pdf) 
