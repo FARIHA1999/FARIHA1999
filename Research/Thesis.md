@@ -7,7 +7,7 @@
 2. To evaluate management strategies for the selected protected area.
 
 ## Methodology
- — <i><sub>click the drop down button to view</sub></i>
+ — <i>⬇️ Click the dropdown arrow (▸) to view each content.</i>
 <details>
   <summary><a href="#dc"><em>Data Collection</em></a></summary>
   <p align="left">
@@ -30,7 +30,7 @@
 </details>
 
 ## Results
- — <i><sub>click the drop down button to view</sub></i>
+ — <i>⬇️ Click the dropdown arrow (▸) to view each figure.</i>
 <details>
   <summary><a href="#social"><em>Social and Resource Map of the Study Area</em></a></summary>
   <p align="left">
