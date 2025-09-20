@@ -16,7 +16,7 @@ Fires at hospitals are a typical occurrence that frequently causes considerable 
 [![shitft](https://img.shields.io/static/v1?label=Project%20Presentation&message=%20&color=FFD700&style=for-the-badge)](362.pdf) <br>
 [![362](https://img.shields.io/static/v1?label=Project%20Report&message=%20&color=0A66C2&style=for-the-badge)](report.pdf)
 <br>
-
+<br>
 
 
 ## <i>**📘 Project:** Land Suitability Analysis Applying Spatial Techniques of GIS </i> <br>
