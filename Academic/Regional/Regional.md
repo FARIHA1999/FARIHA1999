@@ -1,4 +1,4 @@
-## <i>**Project 1:** Long Run Analysis of Economic Structure of the Selected Regions in Bangladesh: A Shift Share Method</i> <br>
+## <i>**📘 Project 1:** Long Run Analysis of Economic Structure of the Selected Regions in Bangladesh: A Shift Share Method</i> <br>
 
 **🎯 Objective** 
 1. To assess the regional economic growth of selected districts based on the shift share components. 
@@ -11,7 +11,7 @@
 [![shitft](https://img.shields.io/static/v1?label=Project%20Presentation&message=%20&color=FFD700&style=for-the-badge)](shiftshare.pdf) <br>
 <br>
 
-## <i>**Project 2:** Formal Regionalization Based on Human Development Index: A District Level Analysis in Bangladesh</i> <br>
+## <i>**📘 Project 2:** Formal Regionalization Based on Human Development Index: A District Level Analysis in Bangladesh</i> <br>
 
 **🎯 Objective:** 
 1. To find out the HDI index for all the districts of Bangladesh. 
@@ -24,7 +24,7 @@
 [![formal](https://img.shields.io/static/v1?label=Project%20Presentation&message=%20&color=FFD700&style=for-the-badge)](Presentation_formal_regionalization.pdf)<br>
 <br>
 
-## <i>**Project 3:** Spatial Concentration of Public Facilities in the Districts of Bangladesh</i> <br>
+## <i>**📘 Project 3:** Spatial Concentration of Public Facilities in the Districts of Bangladesh</i> <br>
 
 **🎯 Objective:** 
 To explore the spatial concentration of public facilities, which include primary and secondary schools, colleges, hospitals, growth centers and rural markets in the districts of Bangladesh as well as delineate the regions that have deficiency and concentration of the facilities.<br>
@@ -35,7 +35,7 @@ To explore the spatial concentration of public facilities, which include primary
 [![LQ](https://img.shields.io/static/v1?label=Project%20Presentation&message=%20&color=FFD700&style=for-the-badge)](LQ_presentation.pdf) <br>
 <br>
 
-## <i>**Project 4:** Exploring the Factors Influencing Catchment Area of the Districts of Bangladesh: A Study on Chapai Nawabganj and Meherpur District </i> <br>
+## <i>**📘 Project 4:** Exploring the Factors Influencing Catchment Area of the Districts of Bangladesh: A Study on Chapai Nawabganj and Meherpur District </i> <br>
 
 **🎯 Objective:** 
 1. To identify and analyze the factors which influence the larger and smaller catchment area of the selected districts of Bangladesh. 
