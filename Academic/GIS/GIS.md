@@ -15,6 +15,15 @@ Criteria 5: The proposed place should be beyond 104 m distance from the location
 <details>
   <summary><a href="#m"><em>Model for Land Suitability Analysis</em></a></summary>
   <p align="left">
-    <img src="./Model.png" alt="Model" width="80%">
+    <img src="./Model.png" alt="Model" width="100%">
+  </p>
+</details>
+
+## 🏙️ Layout Map
+ — <i>⬇️ Click the dropdown arrow (▸) to view map.</i>
+<details>
+  <summary><a href="#m"><em>Map of the Area</em></a></summary>
+  <p align="left">
+    <img src="./Suitable_Location.png" alt="Model" width="100%">
   </p>
 </details>
