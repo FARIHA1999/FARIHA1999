@@ -5,7 +5,16 @@
 2. To find out shortest route for providing fire service from fire stations to hospitals.  
 3. To determine the response time for assessing the service of fire stations.
 <br>
-**🏷️ Abstract**
+<summary> <b>🏷️ Abstract</b>
+<p align="justify">
+Fires at hospitals are a typical occurrence that frequently causes considerable health and property damage. Fire stations should be well-equipped and prepared to give aid to hospitals in times of emergency. Response time is an important factor in determining the quality of a fire station's service. It is crucial for response times to be as short as possible. This response time is determined by the condition of the emergency response vehicle as well as any potential impediments or prohibitions on the road network. Hospitals in Bangladesh are also prone to fire accidents, and in times of emergency, the current road network, congestion, and unplanned land use create difficulties in providing an effective supply of fire service. The current study is an effort to model the shortestroute for a fire service to go through a road network using GIS technology and application on the tertiary hospitals of Dhaka City Corporation Area. This allows fire stations to take the shortest route possible, reducing emergency response time and helping to save lives and property. 
+</p>
+<br>
+[![shitft](https://img.shields.io/static/v1?label=Project%20Report&message=%20&color=0A66C2&style=for-the-badge)](report.pdf) <br>
+
+[![shitft](https://img.shields.io/static/v1?label=Project%20Presentation&message=%20&color=FFD700&style=for-the-badge)](362.pdf) <br>
+<br>
+
 
 
 ## <i>**📘 Project:** Land Suitability Analysis Applying Spatial Techniques of GIS </i> <br>
