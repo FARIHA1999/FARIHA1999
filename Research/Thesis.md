@@ -1,12 +1,12 @@
-# Thesis: Exploring the Reasons Behind Land Cover Change & Evaluating Management Strategies of a Protected Area in Bangladesh
+# 📘 Thesis: Exploring the Reasons Behind Land Cover Change & Evaluating Management Strategies of a Protected Area in Bangladesh
 
 [← Back to profile](../)
 
-## Objectives
+## 🎯 Objectives
 1. To explore the reasons behind land cover change of a selected protected area in Bangladesh. 
 2. To evaluate management strategies for the selected protected area.
 
-## Methodology
+## 🛠️ Methodology
  — <i>⬇️ Click the dropdown arrow (▸) to view each content.</i>
 <details>
   <summary><a href="#dc"><em>Data Collection</em></a></summary>
@@ -29,7 +29,7 @@
   </p>
 </details>
 
-## Results
+## 📊 Results
  — <i>⬇️ Click the dropdown arrow (▸) to view each figure.</i>
 <details>
   <summary><a href="#social"><em>Social and Resource Map of the Study Area</em></a></summary>
@@ -94,7 +94,7 @@
   </p>
 </details>
 
-## Major Findings
+## 📌 Major Findings
 
 - The forestlands of Bhawal National Park are gradually encroached through establishing industries, settlements or expanding agricultural lands. 
 - At present, 989.36 acres forestlands are illegally encroached by industries, agro based farms or private cottages. The total land valuation of the encroached lands is 197872 crore BDT. 
