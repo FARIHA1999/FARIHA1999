@@ -3,7 +3,7 @@
 **Project Type:** Policy level project <br>
 
 **🎯 Objective** 
-1. Review of DAP strategy in consideration of structure plan proposal.
+1. To review DAP strategy in consideration of structure plan proposal.
 2. To identify the potentials of slum upgradation in the proposed location in DAP.
 <br>
 
