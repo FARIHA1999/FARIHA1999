@@ -5,9 +5,8 @@
 2. To find out shortest route for providing fire service from fire stations to hospitals.  
 3. To determine the response time for assessing the service of fire stations.
 <br>
-### 🏷️ Abstract
 <details>
-<summary> — <i>⬇️ Click the dropdown arrow (▸) to view. </i> </summary> 
+<summary> 🏷️ Abstract — <i>⬇️ Click the dropdown arrow (▸) to view. </i> </summary> 
 <p align="justify">
 Fires at hospitals are a typical occurrence that frequently causes considerable health and property damage. Fire stations should be well-equipped and prepared to give aid to hospitals in times of emergency. Response time is an important factor in determining the quality of a fire station's service. It is crucial for response times to be as short as possible. This response time is determined by the condition of the emergency response vehicle as well as any potential impediments or prohibitions on the road network. Hospitals in Bangladesh are also prone to fire accidents, and in times of emergency, the current road network, congestion, and unplanned land use create difficulties in providing an effective supply of fire service. The current study is an effort to model the shortestroute for a fire service to go through a road network using GIS technology and application on the tertiary hospitals of Dhaka City Corporation Area. This allows fire stations to take the shortest route possible, reducing emergency response time and helping to save lives and property. 
 </p> 
