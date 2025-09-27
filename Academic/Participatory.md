@@ -67,7 +67,7 @@
 [![Project Report](https://img.shields.io/static/v1?label=Project%20Report&message=%20&color=F39C12&style=for-the-badge)](Academic/Report.pdf) <br>
 
 <details>
-- <summary>**Field Survey - December 7, 2023**  </summary>
+- <summary> <b> Field Survey - December 7, 2023 </b> </summary>
   <p align="left">
     <img src="./Picture9.png" alt="Study Area" width="90%">
   </p>
