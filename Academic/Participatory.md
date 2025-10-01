@@ -66,12 +66,12 @@
     <img src="./Picture11.jpg" alt="Social and Resource Map" width="80%">
   </p>
 
-  - **Process of Market Management**
+- **Process of Market Management**
   <p align="left">
     <img src="./Picture12.jpg" alt="Social and Resource Map" width="80%">
   </p>
 
-  - **The Envisioned Condition of the Informal Market by the Vendors**
+- **The Envisioned Condition of the Informal Market by the Vendors**
   <p align="left">
     <img src="./Picture13.jpg" alt="Social and Resource Map" width="80%">
   </p>
