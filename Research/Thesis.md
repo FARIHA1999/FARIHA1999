@@ -30,18 +30,17 @@
 </details>
 
 ## 📊 Results
-Social and Resource Map of the Study Area
+1. Social and Resource Map of the Study Area
   <p align="left">
     <img src="./Social%20and%20Resource%20Map.JPG" alt="Social and Resource Map" width="70%">
   </p>
 
 
-<details>
-  <summary><a href="#tem"><em>Temporal Change in the Study Area</em></a></summary>
+2. Temporal Change in the Study Area
   <p align="left">
     <img src="./Temporal%20change.png.jpg" alt="Temporal Change" width="80%">
   </p>
-</details>
+
 
 <details>
   <summary><a href="#pair"><em>Pair Wise Matrix for Identifying the Major Causes Behind Land Cover Change</em></a></summary>
