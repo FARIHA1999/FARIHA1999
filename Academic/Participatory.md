@@ -1,17 +1,18 @@
 ## <i> **📘 Project Title:** A Study on Informal Market at the Local Level and the Role of Stakeholders</i>
 
 **🎯 Objectives**
-- To understand the spatial and temporal extent of informal markets at the local level  
-- To identify and analyze the problems faced by informal businessmen and users  
-- To explore the relationship and role of stakeholders in informal markets at the local level
-
-<details>
-  <summary><b><a href="t">🛠️ Tools & Techniques Used for Data Collection — <i>Click to view</i></a></b></summary><br>
+- To understand the spatial and temporal extent of informal markets at the local level. 
+- To identify and analyze the problems faced by informal businessmen and users.  
+- To explore the relationship and role of stakeholders in informal markets at the local level.
 
 - **Location of the Study Area**  
   <p align="left">
     <img src="./Picture8.png.jpg" alt="Study Area" width="90%">
   </p>
+  <details>
+    
+  <summary><b>🛠️ Tools & Techniques Used for Data Collection — <i>Click to view</i></b></summary><br>
+
  
 - **Participants:** Temporary/itinerant vendors and nearby residents.
 
@@ -29,12 +30,12 @@
   - Anonymity assured; no personally identifying information reported.
 
 - **Field outputs**  
-- Qualitative notes/transcripts, maps & sketches, and photographs used for analysis and reporting.
+  - Qualitative notes/transcripts, maps & sketches, and photographs used for analysis and reporting.
 
 </details>
 
 <details>
-  <summary><b><a href="t">📊 Major Findings — <i>Click to view</i></a></b></summary><br>
+  <summary><b>📊 Major Findings — <i>Click to view</i></b></summary><br>
 
 📍 **Location: mixed suitability**
   - **Advantages:** steady demand from nearby households; little congestion or pedestrian conflict.
