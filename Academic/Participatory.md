@@ -7,7 +7,7 @@
 
 **🗺️ Location of the Study Area**  
   <p align="left">
-    <img src="./Picture8.png.jpg" alt="Study Area" width="90%">
+    <img src="./Picture8.png.jpg" alt="Study Area" width="80%">
   </p>
   <details>
     
@@ -37,9 +37,15 @@
 
 **1. Physical and Social Resources of the Study Area**
   <p align="left">
-    <img src="./Picture1.jpg" alt="Social and Resource Map" width="70%">
+    <img src="./Picture1.jpg" alt="Social and Resource Map" width="80%">
   </p>
 
+**2. Natural Resources of the Study Area**
+  <p align="left">
+    <img src="./Picture2.jpg" alt="Social and Resource Map" width="80%">
+  </p>
+
+  
 <details>
   <summary><b>📊 Major Findings — <i>Click to view</i></b></summary><br>
 
