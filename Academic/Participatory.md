@@ -5,7 +5,7 @@
 - To identify and analyze the problems faced by informal businessmen and users.  
 - To explore the relationship and role of stakeholders in informal markets at the local level.
 
-- **Location of the Study Area**  
+**🗺️ Location of the Study Area**  
   <p align="left">
     <img src="./Picture8.png.jpg" alt="Study Area" width="90%">
   </p>
