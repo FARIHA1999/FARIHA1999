@@ -30,13 +30,11 @@
 </details>
 
 ## 📊 Results
- — <i>⬇️ Click the dropdown arrow (▸) to view each figure.</i>
-<details>
-  <summary><a href="#social"><em>Social and Resource Map of the Study Area</em></a></summary>
+Social and Resource Map of the Study Area
   <p align="left">
     <img src="./Social%20and%20Resource%20Map.JPG" alt="Social and Resource Map" width="70%">
   </p>
-</details>
+
 
 <details>
   <summary><a href="#tem"><em>Temporal Change in the Study Area</em></a></summary>
