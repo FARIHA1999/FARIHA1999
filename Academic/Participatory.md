@@ -11,29 +11,7 @@
   </p>
   <details>
     
-  <summary><b>🛠️ Tools & Techniques Used for Data Collection — <i>Click to view</i></b></summary><br>
-
- 
-- **Participants:** Temporary/itinerant vendors and nearby residents.
-
-- **Data sources**  
-  - **Primary:** Field observation, Focus Group Discussions (FGD), Key-Informant Interviews (KII).  
-  - **Secondary:** Documents and background materials relevant to the site.
-
-- **Methods & instruments**  
-  - **Checklist-based observation:** Documented vendor categories, exact locations and seating arrangements (road, footpath, vacant plot); supported by photo documentation and sketch mapping.  
-  - **FGD with vendors:** Guided discussions on daily operations, constraints, and support systems; sessions intentionally included **female vendors**.  
-  - **KII with community members/market actors:** Semi-structured interviews to clarify stakeholder roles and relationships affecting market management.
-
-- **Ethical Consideration**  
-  - Explained study purpose to participants; voluntary participation.  
-  - Anonymity assured; no personally identifying information reported.
-
-- **Field outputs**  
-  - Qualitative notes/transcripts, maps & sketches, and photographs used for analysis and reporting.
-
-</details>
-<br>
+  ## <i> ** 📊 Results ** </i>
 
 - **Physical and Social Resources of the Study Area**
   <p align="left">
