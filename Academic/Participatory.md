@@ -33,6 +33,12 @@
   - Qualitative notes/transcripts, maps & sketches, and photographs used for analysis and reporting.
 
 </details>
+<br>
+
+1. Physical and Social Resources of the Study Area
+  <p align="left">
+    <img src="./Social%20and%20Resource%20Map.JPG" alt="Social and Resource Map" width="70%">
+  </p>
 
 <details>
   <summary><b>📊 Major Findings — <i>Click to view</i></b></summary><br>
