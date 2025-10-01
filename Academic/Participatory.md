@@ -11,7 +11,7 @@
   </p>
 
     
-  ## ** 📊 Results ** 
+  ### 📊 Results 
 
 - **Physical and Social Resources of the Study Area**
   <p align="left">
