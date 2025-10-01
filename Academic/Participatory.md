@@ -35,12 +35,12 @@
 </details>
 <br>
 
-**1. Physical and Social Resources of the Study Area**
+- **Physical and Social Resources of the Study Area**
   <p align="left">
     <img src="./Picture1.jpg" alt="Social and Resource Map" width="80%">
   </p>
 
-**2. Natural Resources of the Study Area**
+- **Natural Resources of the Study Area**
   <p align="left">
     <img src="./Picture2.jpg" alt="Social and Resource Map" width="80%">
   </p>
