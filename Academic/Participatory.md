@@ -76,7 +76,8 @@
     <img src="./Picture13.jpg" alt="Social and Resource Map" width="80%">
   </p>
   
-  ## <b>🧾 Major Findings
+<details>
+  ## <summary> <b>🧾 Major Findings </summary>
 
 📍 **Location:**
   - **Advantages:** Steady demand from nearby households; little congestion or pedestrian conflict.
