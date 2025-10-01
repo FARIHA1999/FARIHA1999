@@ -9,9 +9,9 @@
   <p align="left">
     <img src="./Picture8.png.jpg" alt="Study Area" width="80%">
   </p>
-  <details>
+
     
-  ## <i> ** 📊 Results ** </i>
+  ## ** 📊 Results ** 
 
 - **Physical and Social Resources of the Study Area**
   <p align="left">
