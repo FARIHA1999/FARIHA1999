@@ -48,47 +48,41 @@
   </p>
 <br>
 
-<details>
-  <summary><a href="#r"><em>Reasons behind Land Cover Changes of the Study Area</em></a></summary>
+- <b>Reasons behind Land Cover Changes of the Study Area</b>
   <p align="left">
     <img src="./reason.jpg" alt="Reason" width="80%">
   </p>
-</details>
+<br>
 
-<details>
-  <summary><a href="#cng"><em>Change in Land Ownership of the Study Area</em></a></summary>
+- <b>Change in Land Ownership of the Study Area</b>
   <p align="left">
     <img src="./land%20ownership.jpg" alt="Reason" width="80%">
   </p>
-</details>
+<br>
 
-<details>
-  <summary><a href="#live"><em>Change in Local Livelihood Options</em></a></summary>
+- <b>Change in Local Livelihood Options</b>
   <p align="left">
     <img src="./Socio%20economic.jpg" alt="livelihood" width="100%">
   </p>
-</details>
+<br>
 
-<details>
-  <summary><a href="#threat"><em>Identification of Possible Threats to the Study Area & Threat Extent and Severity</em></a></summary>
+- <b> Identification of Possible Threats to the Study Area & Threat Extent and Severity</b>
   <p align="left">
     <img src="./Detail%20Assessments%20of%20threats.jpg" alt="livelihood" width="80%">
   </p>
-</details>
+<br>
 
-<details>
-  <summary><a href="#s"><em>Stakeholders Associated with the Management of Bhawal National Park</em></a></summary>
+- <b>Stakeholders Associated with the Management of Bhawal National Park<b>
   <p align="left">
     <img src="./Stakeholder%20associated%20with%20the%20Forest%20Management%20Process.jpg" alt="stakeholders" width="80%">
   </p>
-</details>
+<br>
 
-<details>
-  <summary><a href="#e"><em>Percentage of Five Elements of Management Effectiveness of the Study Area</em></a></summary>
+- <b> Percentage of Five Elements of Management Effectiveness of the Study Area</b>
   <p align="left">
     <img src="./effectiveness.png.jpg" alt="effectiveness" width="60%">
   </p>
-</details>
+<br>
 
 ## 📌 Major Findings
 
