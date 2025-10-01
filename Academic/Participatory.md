@@ -35,9 +35,9 @@
 </details>
 <br>
 
-1. Physical and Social Resources of the Study Area
+**1. Physical and Social Resources of the Study Area**
   <p align="left">
-    <img src="./Social%20and%20Resource%20Map.JPG" alt="Social and Resource Map" width="70%">
+    <img src="./Picture1.jpg" alt="Social and Resource Map" width="70%">
   </p>
 
 <details>
