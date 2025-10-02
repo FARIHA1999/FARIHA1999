@@ -6,6 +6,10 @@
 3. To find out the possible reason of positive and negative value of the shift share components.
 <br>
 
+- **Shift Share Analysis**
+  <p align="left">
+    <img src="./Social%20and%20Resource%20Map.JPG" alt="Social and Resource Map" width="70%">
+  </p>
 [![shitft](https://img.shields.io/static/v1?label=Project%20Report&message=%20&color=0A66C2&style=for-the-badge)](Report1.pdf) <br>
 
 [![shitft](https://img.shields.io/static/v1?label=Project%20Presentation&message=%20&color=FFD700&style=for-the-badge)](shiftshare.pdf) <br>
