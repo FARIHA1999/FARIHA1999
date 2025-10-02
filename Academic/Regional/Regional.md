@@ -69,7 +69,35 @@ To explore the spatial concentration of public facilities, which include primary
 
 - **Location of the Study Area**
   <p align="left">
-    <img src="./Social%20and%20Resource%20Map.JPG" alt="Social and Resource Map" width="70%">
+    <img src="./Picture39.jpg" alt="Social and Resource Map" width="70%">
+  </p>
+- **Geographic Position**
+  <p align="left">
+    <img src="./Picture40.jpg" alt="Social and Resource Map" width="70%">
+  </p>
+- **Economic Situation**
+  <p align="left">
+    <img src="./Picture41.jpg" alt="Social and Resource Map" width="70%">
+  </p>
+- **Health Care and Agriculture Production in the Study Area**
+  <p align="left">
+    <img src="./Picture42.jpg" alt="Social and Resource Map" width="70%">
+  </p>
+- **Number of Growth Centers in the Study Area**
+  <p align="left">
+    <img src="./Picture43.jpg" alt="Social and Resource Map" width="70%">
+  </p>
+- **Number of Historic Sites in the Study Area**
+  <p align="left">
+    <img src="./Picture44.jpg" alt="Social and Resource Map" width="70%">
+  </p>
+- **Transportation Infrastructures in the Study Area**
+  <p align="left">
+    <img src="./Picture45.jpg" alt="Social and Resource Map" width="70%">
+  </p>
+- **Connectivity with Neighbouring Country**
+  <p align="left">
+    <img src="./Picture46.jpg" alt="Social and Resource Map" width="70%">
   </p>
 [![FR](https://img.shields.io/static/v1?label=Project%20Report&message=%20&color=0A66C2&style=for-the-badge)](Regionalization_Report.pdf) <br>
 
