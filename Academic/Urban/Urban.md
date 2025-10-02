@@ -6,6 +6,27 @@
 1. To review DAP strategy in consideration of structure plan proposal.
 2. To identify the potentials of slum upgradation in the proposed location in DAP.
 <br>
+## 📊 Result
+<p align="left">
+    <img src="./Picture17.jpg" alt="Social and Resource Map" width="70%">
+</p>
+
+<p align="left">
+    <img src="./Picture18.jpg" alt="Social and Resource Map" width="70%">
+</p>
+
+<p align="left">
+    <img src="./Picture19.jpg" alt="Social and Resource Map" width="70%">
+</p>
+
+<p align="left">
+    <img src="./Picture20.jpg" alt="Social and Resource Map" width="70%">
+</p>
+
+<p align="left">
+    <img src="./Picture21.jpg" alt="Social and Resource Map" width="70%">
+</p>
+<br>
 
 [![shitft](https://img.shields.io/static/v1?label=Project%20Presentation&message=%20&color=FFD700&style=for-the-badge)](Slum.pdf) <br>
 <br>
