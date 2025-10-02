@@ -64,6 +64,57 @@
 
 **🎯 Objective:** To identify the impacts of establishing educational institutions on existing traffic conditionc<br>
 
+- **Location of the Study Area**
+  <p align="left">
+    <img src="./Picture13.jpg" alt="Social and Resource Map" width="70%">
+  </p>
+- **Existing Road Network**
+  <p align="left">
+    <img src="./Picture14.jpg" alt="Social and Resource Map" width="70%">
+  </p>
+- **Congestion Condition**
+  <p align="left">
+    <img src="./Picture15.jpg" alt="Social and Resource Map" width="70%">
+  </p>
+  <p align="left">
+    <img src="./Picture16.jpg" alt="Social and Resource Map" width="70%">
+  </p>
+- **Traffic Count**
+  <p align="left">
+    <img src="./Picture17.jpg" alt="Social and Resource Map" width="70%">
+  </p>
+  <p align="left">
+    <img src="./Picture18.jpg" alt="Social and Resource Map" width="70%">
+  </p>
+- **Traffic Flow**
+  <p align="left">
+    <img src="./Picture19.jpg" alt="Social and Resource Map" width="70%">
+  </p>
+- **Modes Used by Students**
+  <p align="left">
+    <img src="./Picture20.jpg" alt="Social and Resource Map" width="70%">
+  </p>
+- **Pedestrian Count**
+  <p align="left">
+    <img src="./Picture21.jpg" alt="Social and Resource Map" width="70%">
+  </p>
+- **Level of Service**
+  <p align="left">
+    <img src="./Picture22.jpg" alt="Social and Resource Map" width="70%">
+  </p>
+- **Proposed Intervention**
+  <p align="left">
+    <img src="./Picture23.jpg" alt="Social and Resource Map" width="70%">
+  </p>
+
+    <p align="left">
+    <img src="./Picture24.jpg" alt="Social and Resource Map" width="70%">
+  </p>
+
+    <p align="left">
+    <img src="./Picture25.jpg" alt="Social and Resource Map" width="70%">
+  </p>
+  <br>
 [![tia](https://img.shields.io/static/v1?label=Reconnaissance%20Survey%20Presentation&message=%20&color=FFFF00&style=for-the-badge)](Rtia.pdf) <br>
 <br>
 [![tia](https://img.shields.io/static/v1?label=TIA%20Presentation&message=%20&color=F39C12&style=for-the-badge)](tia.pdf) <br>
