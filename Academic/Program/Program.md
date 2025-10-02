@@ -11,9 +11,6 @@ The last phase of the 4-step travel demand model that allocates **OD trips** to 
     <img src="./Picture7.jpg" alt="Social and Resource Map" width="70%">
   </p>
     <p align="left">
-    <img src="./Picture8.jpg" alt="Social and Resource Map" width="70%">
-  </p>
-    <p align="left">
     <img src="./Picture9.jpg" alt="Social and Resource Map" width="70%">
   </p>
     <p align="left">
