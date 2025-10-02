@@ -54,7 +54,37 @@
 **🎯 Objective:** 
 To explore the spatial concentration of public facilities, which include primary and secondary schools, colleges, hospitals, growth centers and rural markets in the districts of Bangladesh as well as delineate the regions that have deficiency and concentration of the facilities.<br>
 <br>
-
+- **Location Quotient Method**
+  <p align="left">
+    <img src="./Picture47.jpg" alt="Social and Resource Map" width="70%">
+  </p>
+- **Spatial Distribution of Educational Facilities**
+  <p align="left">
+    <img src="./Picture48.jpg" alt="Social and Resource Map" width="70%">
+  </p>
+- **Formal Regionalization based on Spatial Distribution of Public Facilities**
+  <p align="left">
+    <img src="./Picture50.jpg" alt="Social and Resource Map" width="70%">
+  </p>
+- **Gini Index**
+  <p align="left">
+    <img src="./Picture51.jpg" alt="Social and Resource Map" width="70%">
+  </p>
+- **Box Plot**
+  <p align="left">
+    <img src="./Picture52.jpg" alt="Social and Resource Map" width="70%">
+  </p>
+- **Pearson Correlation Test**
+  <p align="left">
+    <img src="./Picture53.jpg" alt="Social and Resource Map" width="70%">
+  </p>
+- **Ranking of Districts based on LQ Value**
+  <p align="left">
+    <img src="./Picture55.jpg" alt="Social and Resource Map" width="70%">
+  </p>
+    <p align="left">
+    <img src="./Picture54.jpg" alt="Social and Resource Map" width="70%">
+  </p>
 [![LQ](https://img.shields.io/static/v1?label=Project%20Report&message=%20&color=0A66C2&style=for-the-badge)](LQ_report.pdf) <br>
 
 [![LQ](https://img.shields.io/static/v1?label=Project%20Presentation&message=%20&color=FFD700&style=for-the-badge)](LQ_presentation.pdf) <br>
