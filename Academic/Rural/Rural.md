@@ -8,11 +8,21 @@ Before initiating any rural development program to fulfill rural people’s need
 
 ## 📈 Results
 
-1. Social and Resource Map of the Study Area
-  <p align="left">
-    <img src="./Social%20and%20Resource%20Map.JPG" alt="Social and Resource Map" width="70%">
+<p align="left">
+    <img src="./1.jpg" alt="Social and Resource Map" width="70%">
   </p>
-
-
+<p align="left">
+    <img src="./2.jpg" alt="Social and Resource Map" width="70%">
+  </p>
+<p align="left">
+    <img src="./3.jpg" alt="Social and Resource Map" width="70%">
+  </p>
+<p align="left">
+    <img src="./4.jpg" alt="Social and Resource Map" width="70%">
+  </p>
+<p align="left">
+    <img src="./5.jpg" alt="Social and Resource Map" width="70%">
+  </p>
+  <br>
 [![332](https://img.shields.io/static/v1?label=Full%20Article&message=%20&color=0A66C2&style=for-the-badge)](Report.pdf) <br>
 
