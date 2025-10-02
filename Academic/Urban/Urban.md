@@ -6,11 +6,12 @@
 1. To review DAP strategy in consideration of structure plan proposal.
 2. To identify the potentials of slum upgradation in the proposed location in DAP.
 <br>
-## 📊 Result
+
 <p align="left">
     <img src="./Picture17.jpg" alt="Social and Resource Map" width="70%">
-</p>
+</p> 
 
+## 📊 Result
 <p align="left">
     <img src="./Picture18.jpg" alt="Social and Resource Map" width="70%">
 </p>
