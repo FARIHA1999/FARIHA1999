@@ -13,6 +13,21 @@ Fires at hospitals are a typical occurrence that frequently causes considerable 
  </details>
 <br>
 
+## 📊 Results
+<p align="left">
+    <img src="./Picture12.jpg" alt="Social and Resource Map" width="70%">
+ </p>
+<p align="left">
+    <img src="./Picture13.jpg" alt="Social and Resource Map" width="70%">
+ </p>
+<p align="left">
+    <img src="./Picture14.jpg" alt="Social and Resource Map" width="70%">
+ </p>
+ <p align="left">
+    <img src="./Picture15.jpg" alt="Social and Resource Map" width="70%">
+ </p>
+ <br>
+ 
 [![shitft](https://img.shields.io/static/v1?label=Project%20Presentation&message=%20&color=FFD700&style=for-the-badge)](362.pdf) <br>
 [![362](https://img.shields.io/static/v1?label=Project%20Report&message=%20&color=0A66C2&style=for-the-badge)](report.pdf)
 <br>
@@ -32,19 +47,14 @@ Criteria 5: The proposed place should be beyond 104 m distance from the location
 <br>
 
 ### 📈 Suitability Analysis in ArcMap 10.8
- — <i>⬇️ Click the dropdown arrow (▸) to view model.</i>
-<details>
-  <summary><a href="#m"><em>Model for Land Suitability Analysis</em></a></summary>
+- **Model for Land Suitability Analysis**
   <p align="left">
     <img src="./Model.png" alt="Model" width="100%">
   </p>
-</details>
 
 ### 🏙️ Layout Map
- — <i>⬇️ Click the dropdown arrow (▸) to view map.</i>
-<details>
-  <summary><a href="#m"><em>Map of the Area</em></a></summary>
+- **Map of the Area**
   <p align="left">
     <img src="./Suitable_Location.png" alt="Model" width="100%">
   </p>
-</details>
+
