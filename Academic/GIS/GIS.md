@@ -53,7 +53,6 @@ Criteria 5: The proposed place should be beyond 104 m distance from the location
   </p>
 
 ### 🏙️ Layout Map
-- **Map of the Area**
   <p align="left">
     <img src="./Suitable_Location.png" alt="Model" width="100%">
   </p>
