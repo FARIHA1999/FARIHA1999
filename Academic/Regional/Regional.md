@@ -79,10 +79,6 @@ To explore the spatial concentration of public facilities, which include primary
   <p align="left">
     <img src="./Picture41.jpg" alt="Social and Resource Map" width="70%">
   </p>
-- **Health Care and Agriculture Production in the Study Area**
-  <p align="left">
-    <img src="./Picture42.jpg" alt="Social and Resource Map" width="70%">
-  </p>
 - **Number of Growth Centers in the Study Area**
   <p align="left">
     <img src="./Picture43.jpg" alt="Social and Resource Map" width="70%">
