@@ -6,9 +6,7 @@ The last phase of the 4-step travel demand model that allocates **OD trips** to 
 ---
 
 <b>🔍 Problem Analysis</b>
-- Determine each trip maker’s likely **path choice** between all zone pairs *(i, j)* for each mode *k*.  
-- Predict the resulting **link flows** *q<sub>ij</sub>* on the network of each mode.
-<br>
+
   <p align="left">
     <img src="./Picture7.jpg" alt="Social and Resource Map" width="70%">
   </p>
