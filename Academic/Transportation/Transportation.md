@@ -2,6 +2,29 @@
 
 **🎯 Objective:** To systematically evaluate the university campus’s accessibility and safety for persons with disabilities against accessibity and safety indicators and applicable national codes. <br>
 
+- **Accessibility and Safety Audit**
+  <p align="left">
+    <img src="./Picture1.jpg" alt="Social and Resource Map" width="70%">
+  </p>
+  <p align="left">
+    <img src="./Picture2.jpg" alt="Social and Resource Map" width="70%">
+  </p>
+  <p align="left">
+    <img src="./Picture3.jpg" alt="Social and Resource Map" width="70%">
+  </p>
+    <p align="left">
+    <img src="./Picture4.jpg" alt="Social and Resource Map" width="70%">
+  </p>
+  <p align="left">
+    <img src="./Picture5.jpg" alt="Social and Resource Map" width="70%">
+  </p>
+  <p align="left">
+    <img src="./Picture6.jpg" alt="Social and Resource Map" width="70%">
+  </p>
+  <p align="left">
+    <img src="./Picture7.jpg" alt="Social and Resource Map" width="70%">
+  </p>
+  
 [![audit](https://img.shields.io/static/v1?label=Accessibility%20and%20Safety%20Audit%20Presentation&message=%20&color=0A66C2&style=for-the-badge)](Audit.pdf) <br>
 
 [![audit](https://img.shields.io/static/v1?label=Accessibility%20and%20Safety%20Audit%20Indicators&message=%20&color=FFD700&style=for-the-badge)](Indicators.pdf) <br>
