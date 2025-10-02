@@ -43,7 +43,25 @@
 2. To compare and highlight the human development levels among all the districts across the country. 
 3. To explore the possible reasons of backward and developed regions based on the parameters of the HDI.  
 <br>
-
+- **Methodology**
+  <p align="left">
+    <img src="./Picture1.jpg" alt="Social and Resource Map" width="70%">
+  </p>
+- **Formal Region Delineation**
+  <p align="left">
+    <img src="./Picture2.jpg" alt="Social and Resource Map" width="70%">
+  </p>
+  <p align="left">
+    <img src="./Picture3.jpg" alt="Social and Resource Map" width="70%">
+  </p>
+    <p align="left">
+    <img src="./Picture4.jpg" alt="Social and Resource Map" width="70%">
+  </p>
+- **Rank of Divisions based on HDI Value**
+  <p align="left">
+    <img src="./Picture5.jpg" alt="Social and Resource Map" width="70%">
+  </p>
+  <br>
 [![formal](https://img.shields.io/static/v1?label=Project%20Report&message=%20&color=0A66C2&style=for-the-badge)](Report_formal_regionalization.pdf) <br>
 
 [![formal](https://img.shields.io/static/v1?label=Project%20Presentation&message=%20&color=FFD700&style=for-the-badge)](Presentation_formal_regionalization.pdf)<br>
