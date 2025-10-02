@@ -67,6 +67,10 @@ To explore the spatial concentration of public facilities, which include primary
 2. To explore the interrelationship among the factors influencing the catchment area of the selected districts.
 <br>
 
+- **Location of the Study Area**
+  <p align="left">
+    <img src="./Social%20and%20Resource%20Map.JPG" alt="Social and Resource Map" width="70%">
+  </p>
 [![FR](https://img.shields.io/static/v1?label=Project%20Report&message=%20&color=0A66C2&style=for-the-badge)](Regionalization_Report.pdf) <br>
 
 [![LQ](https://img.shields.io/static/v1?label=Project%20Presentation&message=%20&color=FFD700&style=for-the-badge)](Regionalization_Presentation.pdf) 
