@@ -41,6 +41,22 @@
 
 **🎯 Objective:** To observe highway traffic conditions during eid festivals using Google Map<br>
 
+- **Highway Condition: Dhaka-Manikganj Route**
+  <p align="left">
+    <img src="./Picture9.jpg" alt="Social and Resource Map" width="70%">
+  </p>
+   <p align="left">
+    <img src="./Picture10.jpg" alt="Social and Resource Map" width="70%">
+  </p>
+
+- **Highway Condition: Dhaka-Munshiganj Route**
+  <p align="left">
+    <img src="./Picture11.jpg" alt="Social and Resource Map" width="70%">
+  </p>
+   <p align="left">
+    <img src="./Picture12.jpg" alt="Social and Resource Map" width="70%">
+  </p>
+
 [![Highway](https://img.shields.io/static/v1?label=Project%20Findings&message=%20&color=0A66C2&style=for-the-badge)](highway.pdf) <br>
 <br>
 
