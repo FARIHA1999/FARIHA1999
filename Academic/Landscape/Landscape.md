@@ -10,36 +10,36 @@
 
 - **Project Framework**
 <p align="left">
-    <img src="./Picture34.jpg" alt="Social and Resource Map" width="70%">
+    <img src="./Picture34.jpg" alt="Social and Resource Map" width="80%">
 </p>
 
 # 📊 Result
 <p align="left">
-    <img src="./Picture36.jpg" alt="Social and Resource Map" width="70%">
+    <img src="./Picture36.jpg" alt="Social and Resource Map" width="80%">
 </p>
 
 <p align="left">
-    <img src="./Picture43.jpg" alt="Social and Resource Map" width="70%">
+    <img src="./Picture43.jpg" alt="Social and Resource Map" width="80%">
 </p>
 
 <p align="left">
-    <img src="./Picture37.jpg" alt="Social and Resource Map" width="70%">
+    <img src="./Picture37.jpg" alt="Social and Resource Map" width="80%">
 </p>
 
 <p align="left">
-    <img src="./Picture38.jpg" alt="Social and Resource Map" width="70%">
+    <img src="./Picture38.jpg" alt="Social and Resource Map" width="80%">
 </p>
 
 <p align="left">
-    <img src="./Picture39.jpg" alt="Social and Resource Map" width="70%">
+    <img src="./Picture39.jpg" alt="Social and Resource Map" width="80%">
 </p>
 
 <p align="left">
-    <img src="./Picture40.jpg" alt="Social and Resource Map" width="70%">
+    <img src="./Picture40.jpg" alt="Social and Resource Map" width="80%">
 </p>
 
 <p align="left">
-    <img src="./Picture42.jpg" alt="Social and Resource Map" width="70%">
+    <img src="./Picture42.jpg" alt="Social and Resource Map" width="80%">
 </p>
 <br>
 
