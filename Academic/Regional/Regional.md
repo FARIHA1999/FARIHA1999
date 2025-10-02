@@ -8,8 +8,29 @@
 
 - **Shift Share Analysis**
   <p align="left">
-    <img src="./Social%20and%20Resource%20Map.JPG" alt="Social and Resource Map" width="70%">
+    <img src="./Picture26.jpg" alt="Social and Resource Map" width="70%">
   </p>
+- **National Growth vs Regional Growth Rate**
+  <p align="left">
+    <img src="./Picture27.jpg" alt="Social and Resource Map" width="70%">
+  </p>
+- **Contribution of Subsectors in Regional Growth**
+  <p align="left">
+    <img src="./Picture28.jpg" alt="Social and Resource Map" width="70%">
+  </p>
+- **Lagging and Leading Industries in the Regions**
+  <p align="left">
+    <img src="./Picture35.jpg" alt="Social and Resource Map" width="70%">
+  </p>
+- **Inter Regional Analysis**
+  <p align="left">
+    <img src="./Picture36.jpg" alt="Social and Resource Map" width="70%">
+  </p>
+
+  <p align="left">
+    <img src="./Picture37.jpg" alt="Social and Resource Map" width="70%">
+  </p>
+  
 [![shitft](https://img.shields.io/static/v1?label=Project%20Report&message=%20&color=0A66C2&style=for-the-badge)](Report1.pdf) <br>
 
 [![shitft](https://img.shields.io/static/v1?label=Project%20Presentation&message=%20&color=FFD700&style=for-the-badge)](shiftshare.pdf) <br>
