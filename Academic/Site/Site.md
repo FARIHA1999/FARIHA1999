@@ -49,15 +49,15 @@
 ## <i>**🧾Project:** Patterns of Land Subdivision </i> <br>
 
 <p align="center">
-    <img src="./13.jpg" alt="Social and Resource Map" width="60%">
+    <img src="./13.jpg" alt="Social and Resource Map" width="70%">
   </p>
 
 <p align="center">
-    <img src="./12.jpg" alt="Social and Resource Map" width="60%">
+    <img src="./12.jpg" alt="Social and Resource Map" width="70%">
   </p>
 
 <p align="center">
-    <img src="./14.jpg" alt="Social and Resource Map" width="60%">
+    <img src="./14.jpg" alt="Social and Resource Map" width="70%">
   </p>
 <br>
 
