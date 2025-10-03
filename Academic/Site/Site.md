@@ -19,7 +19,7 @@
   </p>
 
 
-<p align="left">
+<p align="center">
     <img src="./5.jpg" alt="Social and Resource Map" width="70%">
   </p>
 
