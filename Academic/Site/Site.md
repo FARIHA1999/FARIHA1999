@@ -1,7 +1,5 @@
 ## <i>**🧾Project:** Neighborhood Plan of an Residential Area</i> <br>
 <br>
-
-## 🖼️ Neighborhood Design
 <p align="left">
     <img src="./Picture1.jpg" alt="Social and Resource Map" width="90%">
   </p>
