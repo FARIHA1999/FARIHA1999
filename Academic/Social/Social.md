@@ -1,4 +1,4 @@
-## <i>📝 Project: Long Run Analysis of Economic Structure of the Selected Regions in Bangladesh: A Shift Share Method</i> <br>
+## <i>📝 Project: A Study on Activity Pattern of University Students during Covid-19 Pandemic in Bangladesh </i> <br>
 
 **🎯 Objective**
 1. To identify the general activities of the university students of Bangladesh during the non-lock down period due to enforced closer of universities.
