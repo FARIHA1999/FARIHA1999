@@ -14,6 +14,9 @@
 
 ---
 
+## 🧩 Recent Projects
+- [**3D Flood Simulation 🌊**](https://drive.google.com/file/d/1-YVh3saNmY9x3E0jgSx83rYcvYmydEM0/view?usp=drive_link)
+
 ## 💡 Current Research
 - <a href="Research/Regional.md">**Exploring the Influence of Potential Factors of Urban Change in Bangladesh.**</a> ↗
 
@@ -39,22 +42,8 @@
 
 ## 💼 Professional Experience  
 - <a href="Job/iwm.md"><i>Climate Associate - Institute of Water Modelling (IWM)</i></a> ↗
-
-<details>
-  <summary><b><a href="https://gca.org" target="_blank">Global Center on Adaptation (GCA)</a></b> — <i>Consultant, Training Program on Adaptation Finance</i><br><sub>📍 Dhaka · 🗓️ Sep 2024 – Nov 2024</sub></summary>
-
-- Managed **program schedules**, vendor coordination, logistics, and on-site execution.
-- Engaged public/private stakeholders for **adaptation finance** capacity building.
-- Assisted trainers, maintained participant communications, and produced **evaluation reports**.
-</details>
-
-<details>
-  <summary><b><a href="https://gca.org" target="_blank">Global Center on Adaptation (GCA)</a></b> — <i>Intern (Locally Led Adaptation Program & Climate Finance Program)</i><br><sub>📍 Dhaka · 🗓️ Oct 2023 – Nov 2023</sub></summary>
-
-- Compiled transcripts on climate impacts to marginalized communities in northern & southern Bangladesh.
-- Conducted desk research on **local government roles** in climate adaptation.
-- Supported organization and reporting for the “Training Program on Climate Change Adaptation Finance – Phase 01”.
-</details> 
+- <a href="Job/gca.md"><i>Consultant - Global Center on Adaptation (GCA)</i></a> ↗
+- <a href="Job/gca1.md"><i>Intern - Global Center on Adaptation (GCA)</i></a> ↗
 
 ---
 
