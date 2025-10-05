@@ -14,27 +14,6 @@
 
 ---
 
-## 🛠️ Skills & Tools  
-
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) 
-![ArcGIS](https://img.shields.io/badge/ArcGIS-1E4D2B?style=for-the-badge&logo=esri&logoColor=white) 
-![QGIS](https://img.shields.io/badge/QGIS-3C9D46?style=for-the-badge&logo=qgis&logoColor=white) 
-![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge&logo=googleearth&logoColor=white) 
-![Remote Sensing](https://img.shields.io/badge/Remote%20Sensing-006699?style=for-the-badge&logo=databricks&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" alt="Google Colab"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib"/>
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white) 
-![MS Project](https://img.shields.io/badge/MS%20Project-217346?style=for-the-badge&logo=microsoft&logoColor=white) 
-![MS PowerPoint](https://img.shields.io/badge/MS%20PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white) 
-![PTV Vissim](https://img.shields.io/badge/PTV%20Vissim-CC0000?style=for-the-badge&logo=ptvgroup&logoColor=white) 
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white) 
-
----
-
 ## 💡 Current Research
 - <a href="Research/Regional.md">**Exploring the Influence of Potential Factors of Urban Change in Bangladesh.**</a> ↗
 
@@ -118,6 +97,27 @@
 - 🥈 2nd Runner Up – *EnvoFrame SDG Awareness Competition*, North South University (2023).  
 - 🌍 Finalist – *Climate Science Olympiad* (2023).  
 - 🏅 Bronze Standard – *Duke of Edinburgh’s International Award* (2021).  
+
+---
+
+## 🛠️ Skills & Tools  
+
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) 
+![ArcGIS](https://img.shields.io/badge/ArcGIS-1E4D2B?style=for-the-badge&logo=esri&logoColor=white) 
+![QGIS](https://img.shields.io/badge/QGIS-3C9D46?style=for-the-badge&logo=qgis&logoColor=white) 
+![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge&logo=googleearth&logoColor=white) 
+![Remote Sensing](https://img.shields.io/badge/Remote%20Sensing-006699?style=for-the-badge&logo=databricks&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" alt="Google Colab"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib"/>
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white) 
+![MS Project](https://img.shields.io/badge/MS%20Project-217346?style=for-the-badge&logo=microsoft&logoColor=white) 
+![MS PowerPoint](https://img.shields.io/badge/MS%20PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white) 
+![PTV Vissim](https://img.shields.io/badge/PTV%20Vissim-CC0000?style=for-the-badge&logo=ptvgroup&logoColor=white) 
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white) 
 
 ---
 
