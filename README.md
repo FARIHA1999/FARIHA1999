@@ -70,14 +70,14 @@
 
 ## 🎓 Education  
 
-  <b>Bachelor of Urban and Regional Planning (BURP)</b> — <a href="https://urp.buet.ac.bd/">Bangladesh University of Engineering & Technology (BUET)</a> - 🗓️ 2019–2024 <br>
-  **CGPA: 3.64/4.00**
+- <b>Bachelor of Urban and Regional Planning (BURP)</b> — <a href="https://urp.buet.ac.bd/">Bangladesh University of Engineering & Technology (BUET)</a> - 🗓️ 2019–2024 <br>
+**CGPA: 3.64/4.00**
 
-  <b>Higher Secondary Certificate (HSC)</b> — <a href="https://www.vnsc.edu.bd/">Viqarunnisa Noon School & College</a> - 🗓️ 2016–2018 <br>
-  **GPA: 5.00/5.00**
+- <b>Higher Secondary Certificate (HSC)</b> — <a href="https://www.vnsc.edu.bd/">Viqarunnisa Noon School & College</a> - 🗓️ 2016–2018 <br>
+**GPA: 5.00/5.00**
 
-  <b>Secondary School Certificate (SSC)</b> — <a href="https://www.vnsc.edu.bd/">Viqarunnisa Noon School & College</a> <br> - 🗓️ 2014–2016 <br>
-  **GPA: 5.00/5.00**
+- <b>Secondary School Certificate (SSC)</b> — <a href="https://www.vnsc.edu.bd/">Viqarunnisa Noon School & College</a> - 🗓️ 2014–2016 <br>
+**GPA: 5.00/5.00**
 
 ---
 
