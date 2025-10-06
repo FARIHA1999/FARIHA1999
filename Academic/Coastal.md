@@ -3,7 +3,9 @@
 **📝 Project Description** 
 Bangladesh’s coastal regions, especially Cox’s Bazar, are highly vulnerable to climate change induced hazards such as sea-level rise, salinity intrusion, shifting erosion-accretion patterns, and recurrent storm surges. These environmental challenges threaten the livelihoods, infrastructure, and natural resources of coastal communities. This study explores the vulnerability of Cox’s Bazar Sadar Upazila to these climate impacts and proposes site-specific adaptation strategies to enhance resilience. The research utilizes remote sensing data and standardized indices like the Normalized Differential Salinity Index (NDSI) to assess salinity intrusion and erosion-accretion dynamics. The findings highlight the significant risks posed by sea-level rise and storm surges, particularly the impact of Cyclone Sidr in 2007. Adaptation measures such as ecosystem-based solutions, strengthening early warning systems, and diversifying livelihoods are recommended to mitigate the risks and enhance community resilience in the face of ongoing climate change. 
 <br>
-
+[![shitft](https://img.shields.io/static/v1?label=Project%20Presentation&message=%20&color=FFD700&style=for-the-badge)](presentation.pdf) <br>
+[![362](https://img.shields.io/static/v1?label=Project%20Report&message=%20&color=0A66C2&style=for-the-badge)](Report1.pdf)
+<br>
 ## 📊 Results
 <p align="left">
     <img src="./1.jpg" alt="Social and Resource Map" width="60%">
@@ -40,6 +42,4 @@ Bangladesh’s coastal regions, especially Cox’s Bazar, are highly vulnerable 
 - **Policy Relevance** → Pilot greenbelt and TRM projects, scenario-based planning for sea-level and cyclone intensification.
 <br>
 
-[![shitft](https://img.shields.io/static/v1?label=Project%20Presentation&message=%20&color=FFD700&style=for-the-badge)](presentation.pdf) <br>
-[![362](https://img.shields.io/static/v1?label=Project%20Report&message=%20&color=0A66C2&style=for-the-badge)](Report1.pdf)
-<br>
+
