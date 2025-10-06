@@ -6,19 +6,28 @@ Bangladesh’s coastal regions, especially Cox’s Bazar, are highly vulnerable 
 
 ## 📊 Results
 <p align="left">
-    <img src="./1.jpg" alt="Social and Resource Map" width="50%">
+    <img src="./1.jpg" alt="Social and Resource Map" width="60%">
  </p>
 <p align="left">
-    <img src="./02.jpg" alt="Social and Resource Map" width="40%"><img src="./2.jpg" alt="Social and Resource Map" width="40%">
+    <img src="./02.jpg" alt="Social and Resource Map" width="70%">
  </p>
 <p align="left">
-    <img src="./3.jpg" alt="Social and Resource Map" width="50%"><img src="./4.jpg" alt="Social and Resource Map" width="50%">
+    <img src="./2.jpg" alt="Social and Resource Map" width="50%">
+ </p>
+<p align="left">
+    <img src="./3.jpg" alt="Social and Resource Map" width="60%">
  </p>
  <p align="left">
-    <img src="./5.jpg" alt="Social and Resource Map" width="50%">
+    <img src="./4.jpg" alt="Social and Resource Map" width="60%">
+ </p>
+ <p align="left">
+    <img src="./5.jpg" alt="Social and Resource Map" width="60%">
  </p>
 <p align="left">
-    <img src="./6.jpg" alt="Social and Resource Map" width="50%"><img src="./7.jpg" alt="Social and Resource Map" width="50%">
+    <img src="./6.jpg" alt="Social and Resource Map" width="60%">
+ </p>
+ <p align="left">
+    <img src="./6.jpg" alt="Social and Resource Map" width="60%">
  </p>
  <br>
 
