@@ -8,13 +8,17 @@ Bangladesh’s coastal regions, especially Cox’s Bazar, are highly vulnerable 
 [![shitft](https://img.shields.io/static/v1?label=Project%20Presentation&message=%20&color=FFD700&style=for-the-badge)](presentation.pdf) <br>
 [![362](https://img.shields.io/static/v1?label=Project%20Report&message=%20&color=0A66C2&style=for-the-badge)](Report1.pdf)
 <br>
-## 📊 Results
+
+---
+
 <p align="left">
     <img src="./1.jpg" alt="Social and Resource Map" width="60%">
  </p>
 <p align="left">
     <img src="./02.jpg" alt="Social and Resource Map" width="70%">
  </p>
+ 
+ ## 📊 Results
 <p align="left">
     <img src="./3.jpg" alt="Social and Resource Map" width="60%">
  </p>
