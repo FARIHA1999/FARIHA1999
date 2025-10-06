@@ -22,6 +22,7 @@
 - <a href="Research/Thesis.md">**Thesis: Exploring the Reasons Behind Land Cover Change & Evaluating Management Strategies of a Protected Area in Bangladesh.**</a> ↗
 
 ## 📘 Academic Projects  
+- <a href="Academic/Coastal.md">Climate Change Adaptation</a> ↗ <br>
 - <a href="Academic/Participatory.md">Participatory Planning Studio</a> ↗ <br>
 - <a href="Academic/Project/project.md">Project Planning Studio</a> ↗ <br>
 - <a href="Academic/Transportation/Transportation.md">Transportation Planning Studio</a> ↗ <br>
