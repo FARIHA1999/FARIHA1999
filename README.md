@@ -48,7 +48,7 @@
 
 ## 🏅 Professional Training  
 <details>  
-  <summary><b>Environmental Modelling & Environmental and Social Impact Assessment (ESIA)</b> · IWM</summary>  
+  <summary><b>Environmental Modelling & Environmental and Social Impact Assessment (ESIA)</b> · IWM - (click to view) </summary>  
 <br>
 
 **Key Modules:**  
