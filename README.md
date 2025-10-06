@@ -49,6 +49,7 @@
 ## 🏅 Professional Training  
 <details>  
   <summary><b>Environmental Modelling & Environmental and Social Impact Assessment (ESIA)</b> · IWM</summary>  
+<br>
 
 **Key Modules:**  
 - ESIA & Project Cycle | Policy & Legal Framework | Baseline Assessment  
