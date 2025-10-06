@@ -1,6 +1,5 @@
 # Greetings! I am **Fariha Aktar**.  
-*Urban and Regional Planner*  
-
+*I am a graduate in Urban and Regional Planning with a strong passion for sustainable development and environmental resilience.*
 ---
 
 ## 🔬 Research Areas  
