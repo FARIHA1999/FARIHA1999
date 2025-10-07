@@ -4,7 +4,7 @@
 
 **🏢 Organization** - <a href="https://gca.org/about-us/regional-offices/gca-south-asia/" target="_blank">Global Center on Adaptation (GCA)</a><br>
 
-🗓️ September 2024 – November 2024
+🗓️ October 2023 – November 2023
 
 ---
 
