@@ -16,6 +16,6 @@
 </p>
 
 <p align="left">
-  <img src="./2015LST_GZ.jpg" alt="Social and Resource Map" width="40%"><img src="./2020LST_GZ.jpg" alt="Social and Resource Map" width="40%"><img src="./2024LST_GZ.jpg" alt="Social and Resource Map" width="30%">
+  <img src="./2015LST_GZ.jpg" alt="Social and Resource Map" width="30%"><img src="./2020LST_GZ.jpg" alt="Social and Resource Map" width="30%"><img src="./2024LST_GZ.jpg" alt="Social and Resource Map" width="30%">
 </p>
 
