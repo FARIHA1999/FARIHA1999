@@ -12,7 +12,7 @@
 
 **• Locally Led Adaptation Program** 
 
- - Preparation of transcripts on climate change impacts on lives and livelihoods of marginalized people in northern and southern districts on Bangladesh and their adaptation efforts. <br>
+ - Preparation of transcripts on climate change impacts on lives and livelihoods of marginalized people in northern and southern districts on Bangladesh and their adaptation efforts.
  <a href="https://llahub.gca.org/articles/2afa87fd-6b02-470d-8954-68bea07a6d2e" target="_blank">Givining Voice to the Vulnerable</a><br>
  - Primary research on the role of local governments in facilitating climate change adaption in Bangladesh. 
 
