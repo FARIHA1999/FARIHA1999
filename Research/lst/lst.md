@@ -12,13 +12,10 @@
 ## LST Map of Gazipur City Corporation
 
 <p align="left">
-  <img src="./2000LST_GZ.jpg" alt="Social and Resource Map" width="40%"><img src="./2005LST_GZ.jpg" alt="Social and Resource Map" width="40%">
+  <img src="./2000LST_GZ.jpg" alt="Social and Resource Map" width="30%"><img src="./2005LST_GZ.jpg" alt="Social and Resource Map" width="30%"><img src="./2010LST_GZ.jpg" alt="Social and Resource Map" width="30%">
 </p>
 
 <p align="left">
-  <img src="./2010LST_GZ.jpg" alt="Social and Resource Map" width="40%"><img src="./2015LST_GZ.jpg" alt="Social and Resource Map" width="40%">
+  <img src="./2015LST_GZ.jpg" alt="Social and Resource Map" width="40%"><img src="./2020LST_GZ.jpg" alt="Social and Resource Map" width="40%"><img src="./2024LST_GZ.jpg" alt="Social and Resource Map" width="30%">
 </p>
 
-<p align="left">
-  <img src="./2020LST_GZ.jpg" alt="Social and Resource Map" width="40%"><img src="./2024LST_GZ.jpg" alt="Social and Resource Map" width="40%">
-</p>
