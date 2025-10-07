@@ -2,7 +2,7 @@
 
 **🥇 Program** - Training on Adaptation Finance: Accessing Green Climate Fund (GCF)  
 
-**🏢 Organization** - <a href="https://gca.org/about-us/regional-offices/gca-south-asia/" target="_blank">Sheltech Consultants (Pvt.) Ltd.</a><br>
+**🏢 Organization** - <a href="https://gca.org/about-us/regional-offices/gca-south-asia/" target="_blank">Global Center on Adaptation - South Asia.</a><br>
 
 🗓️ September 2024 – November 2024
 
