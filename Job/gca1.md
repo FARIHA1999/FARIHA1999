@@ -19,7 +19,7 @@
 **• Adaptation Finance Program**
 - Assisted in organizing trainings and preparing report for the program on “Training Program on Climate Change Adaption Finance Phase 01: Enabling Direct Access to Global Climate Fund.”
 
-### 👥 Masterclass on Adaptation FinanceEnabling Direct Access to GCF in Bangladesh (Phase-I: Climate Science in Climate Finance)
+### 👥 Masterclass on Adaptation Finance: Enabling Direct Access to GCF in Bangladesh (Phase-I: Climate Science in Climate Finance)
 
 <p align="center">
   <img src="1.jpg" width="70%"/>
