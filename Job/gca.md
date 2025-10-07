@@ -10,14 +10,14 @@
 
 **📋Key Reponsibilities** <br>
 
--**Event & Logistical Support** – Assist Senior Program Officer in organizing events, focusing on logistics, venues, catering, and accommodation.<br>
--**Communication Materials** – Prepare concept notes, website briefs, banner content, and media materials.<br>
--**Participant Coordination** – Select, confirm, and coordinate with participants; manage communication, reading material distribution, and logistics.<br>
--**Assessment & Evaluation** – Evaluate participants’ assignments and prepare detailed evaluation sheets.<br>
--**Agenda & Reports** – Support development of program agenda and prepare comprehensive training/workshop reports.<br>
--**Resource Person Support** – Develop Q&A lists for panelists; arrange and manage smooth online sessions.<br>
--**Event Management Firm (EMF) Liaison** – Coordinate with EMF for procurement, quality assurance, timely delivery, and cost documentation.<br>
--**Onsite Coordination** – Ensure smooth physical attendance and provide support during events.<br>
+- **Event & Logistical Support** – Assist Senior Program Officer in organizing events, focusing on logistics, venues, catering, and accommodation.<br>
+- **Communication Materials** – Prepare concept notes, website briefs, banner content, and media materials.<br>
+- **Participant Coordination** – Select, confirm, and coordinate with participants; manage communication, reading material distribution, and logistics.<br>
+- **Assessment & Evaluation** – Evaluate participants’ assignments and prepare detailed evaluation sheets.<br>
+- **Agenda & Reports** – Support development of program agenda and prepare comprehensive training/workshop reports.<br>
+- **Resource Person Support** – Develop Q&A lists for panelists; arrange and manage smooth online sessions.<br>
+- **Event Management Firm (EMF) Liaison** – Coordinate with EMF for procurement, quality assurance, timely delivery, and cost documentation.<br>
+- **Onsite Coordination** – Ensure smooth physical attendance and provide support during events.<br>
 
 ---
 
