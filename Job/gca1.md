@@ -1,4 +1,4 @@
-<img width="1807" height="212" alt="image" src="https://github.com/user-attachments/assets/93076df9-352c-4c47-9bff-e3f0a86c63d2" />**💼 Designation** - Intern <br>
+**💼 Designation** - Intern <br>
 
 **🥇 Designated Program** - Locally Led Adaptation & Climate Adaptation Finance 
 
