@@ -21,7 +21,7 @@
 - <a href="Research/Regional.md">**Exploring the Influence of Potential Factors of Urban Change in Bangladesh.**</a> ↗
 
 ## 📑 Thesis Project
-- <a href="Research/Thesis.md">**Thesis: Exploring the Reasons Behind Land Cover Change & Evaluating Management Strategies of a Protected Area in Bangladesh.**</a> ↗
+- <a href="Research/Thesis.md">**Exploring the Reasons Behind Land Cover Change & Evaluating Management Strategies of a Protected Area in Bangladesh.**</a> ↗
 
 ## 📘 Academic Projects  
 - <a href="Academic/Coastal.md">Climate Change Adaptation</a> ↗ <br>
